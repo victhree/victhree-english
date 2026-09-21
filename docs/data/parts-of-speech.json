@@ -213,7 +213,7 @@
                         "Auxiliary verb"
                     ],
         "answer":  "b",
-        "explanation":  "‘Is’ here is a linking (copular) verb — it takes no object."
+        "explanation":  "‘Is’ here is a linking (copular) verb - it takes no object."
     },
     {
         "id":  "eng-2020-I-parts-of-speech-q89",
@@ -267,7 +267,7 @@
                         "Cause"
                     ],
         "answer":  "a",
-        "explanation":  "‘Because’ joins the reason-clause = subordinating conjunction. Spelling — correctly spelt word (Q91–100)"
+        "explanation":  "‘Because’ joins the reason-clause = subordinating conjunction. Spelling - correctly spelt word (Q91–100)"
     },
     {
         "id":  "eng-2020-II-parts-of-speech-q81",
@@ -2535,7 +2535,7 @@
                         "Adjective"
                     ],
         "answer":  "a",
-        "explanation":  "‘Every day’ tells how often it rained — it modifies the verb = adverb (adverbial phrase of time)."
+        "explanation":  "‘Every day’ tells how often it rained - it modifies the verb = adverb (adverbial phrase of time)."
     },
     {
         "id":  "eng-2026-I-parts-of-speech-q61",
@@ -2562,7 +2562,7 @@
                         "Pronoun"
                     ],
         "answer":  "c",
-        "explanation":  "‘First’ tells how/when she came — it modifies the verb ‘came’, so it is an adverb of order."
+        "explanation":  "‘First’ tells how/when she came - it modifies the verb ‘came’, so it is an adverb of order."
     },
     {
         "id":  "eng-2026-I-parts-of-speech-q62",
@@ -2589,7 +2589,7 @@
                         "Participle"
                     ],
         "answer":  "b",
-        "explanation":  "‘Obligatory’ describes the situation (it is obligatory) — a describing word = adjective."
+        "explanation":  "‘Obligatory’ describes the situation (it is obligatory) - a describing word = adjective."
     },
     {
         "id":  "eng-2026-I-parts-of-speech-q63",
@@ -2805,6 +2805,6 @@
                         "Preposition"
                     ],
         "answer":  "b",
-        "explanation":  "‘Timely’ describes the noun ‘delivery’ (timely delivery) = adjective — even though it ends in -ly. Prepositions \u0026 Determiners (Q71–80)"
+        "explanation":  "‘Timely’ describes the noun ‘delivery’ (timely delivery) = adjective - even though it ends in -ly. Prepositions \u0026 Determiners (Q71–80)"
     }
 ]

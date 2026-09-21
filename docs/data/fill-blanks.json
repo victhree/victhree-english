@@ -807,7 +807,7 @@
                         "replenished"
                     ],
         "answer":  "b",
-        "explanation":  "‘Endow (someone) with’ = to give/gift naturally. Spotting Errors (Q72–96) — error and correction identified"
+        "explanation":  "‘Endow (someone) with’ = to give/gift naturally. Spotting Errors (Q72–96) - error and correction identified"
     },
     {
         "id":  "eng-2018-I-fill-blanks-q21",
@@ -1077,7 +1077,7 @@
                         "sleepy"
                     ],
         "answer":  "c",
-        "explanation":  "‘A wet blanket’ = a person who spoils others\u0027 enjoyment. Spotting Errors (Q71–90) — error and correction identified"
+        "explanation":  "‘A wet blanket’ = a person who spoils others\u0027 enjoyment. Spotting Errors (Q71–90) - error and correction identified"
     },
     {
         "id":  "eng-2018-II-fill-blanks-q1",
@@ -1347,7 +1347,7 @@
                         "whether I will"
                     ],
         "answer":  "a",
-        "explanation":  "Reported yes/no question with ‘if’; the verb backshifts (‘am’ → ‘were/was’). Spotting Errors (Q39–48) — error and correction identified"
+        "explanation":  "Reported yes/no question with ‘if’; the verb backshifts (‘am’ → ‘were/was’). Spotting Errors (Q39–48) - error and correction identified"
     },
     {
         "id":  "eng-2019-I-fill-blanks-q1",
@@ -1617,7 +1617,7 @@
                         "got on with"
                     ],
         "answer":  "b",
-        "explanation":  "‘Get away with’ = escape punishment for. Spotting Errors (Q71–90) — error and correction identified"
+        "explanation":  "‘Get away with’ = escape punishment for. Spotting Errors (Q71–90) - error and correction identified"
     },
     {
         "id":  "eng-2020-I-fill-blanks-q51",
@@ -1887,7 +1887,7 @@
                         "run on"
                     ],
         "answer":  "a",
-        "explanation":  "‘Run into’ = to meet by chance; past ‘ran’. Parts of Speech (Q81–90) — underlined word inferred"
+        "explanation":  "‘Run into’ = to meet by chance; past ‘ran’. Parts of Speech (Q81–90) - underlined word inferred"
     },
     {
         "id":  "eng-2020-II-fill-blanks-q51",
@@ -2157,7 +2157,7 @@
                         "would have been"
                     ],
         "answer":  "c",
-        "explanation":  "‘A has-been’ = someone past their prime. Parts of Speech (Q81–90) — underlined word inferred"
+        "explanation":  "‘A has-been’ = someone past their prime. Parts of Speech (Q81–90) - underlined word inferred"
     },
     {
         "id":  "eng-2021-I-fill-blanks-q51",
@@ -2400,7 +2400,7 @@
                         "would resulted"
                     ],
         "answer":  "c",
-        "explanation":  "‘Result in’ = lead to; ‘will result in unhappiness’. Parts of Speech (Q91–100) — underlined word inferred"
+        "explanation":  "‘Result in’ = lead to; ‘will result in unhappiness’. Parts of Speech (Q91–100) - underlined word inferred"
     },
     {
         "id":  "eng-2021-II-fill-blanks-q61",
@@ -3210,7 +3210,7 @@
                         "other"
                     ],
         "answer":  "b",
-        "explanation":  "‘Greater than any other city’ avoids an illogical comparison. Spotting Errors (Q101–110) — error and correction identified"
+        "explanation":  "‘Greater than any other city’ avoids an illogical comparison. Spotting Errors (Q101–110) - error and correction identified"
     },
     {
         "id":  "eng-2023-I-fill-blanks-q11",
@@ -3723,7 +3723,7 @@
                         "dependence"
                     ],
         "answer":  "c",
-        "explanation":  "‘Evidence of’ = proof of. Spotting Errors (Q41–50) — error and correction identified"
+        "explanation":  "‘Evidence of’ = proof of. Spotting Errors (Q41–50) - error and correction identified"
     },
     {
         "id":  "eng-2024-I-fill-blanks-q6",
@@ -3993,7 +3993,7 @@
                         "concurring"
                     ],
         "answer":  "b",
-        "explanation":  "‘Embark on a project’ = to begin it. Word Classes — part of speech of the underlined word (Q41–50)"
+        "explanation":  "‘Embark on a project’ = to begin it. Word Classes - part of speech of the underlined word (Q41–50)"
     },
     {
         "id":  "eng-2024-II-fill-blanks-q6",
@@ -4182,7 +4182,7 @@
                         "must have"
                     ],
         "answer":  "a",
-        "explanation":  "After ‘stipulate that’, English uses the mandative subjunctive — the base form ‘have’."
+        "explanation":  "After ‘stipulate that’, English uses the mandative subjunctive - the base form ‘have’."
     },
     {
         "id":  "eng-2024-II-fill-blanks-q13",
@@ -4263,6 +4263,6 @@
                         "have been undergoing"
                     ],
         "answer":  "a",
-        "explanation":  "‘The country’ is singular; among the options, the simple past ‘underwent’ agrees and suits a completed period. Word Classes — part of speech of the underlined word (Q41–50)"
+        "explanation":  "‘The country’ is singular; among the options, the simple past ‘underwent’ agrees and suits a completed period. Word Classes - part of speech of the underlined word (Q41–50)"
     }
 ]

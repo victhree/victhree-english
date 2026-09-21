@@ -36,7 +36,7 @@ function Get-Paras($path){
     $text=$text -replace '&amp;','&' -replace '&lt;','<' -replace '&gt;','>' -replace '&quot;','"' -replace '&apos;',"'" -replace '&#39;',"'"
     # site rule: no em-dashes anywhere. Convert em-dash to a spaced hyphen (meaning-preserving),
     # then tidy any doubled spaces it creates.
-    $text=$text -replace '—',' - ' -replace '  +',' '
+    $text=$text -replace ([char]0x2014),' - ' -replace '  +',' '
     [void]$out.Add([pscustomobject]@{style=$style;text=$text.Trim()})
   }
   return $out

@@ -483,7 +483,7 @@
                         "Embarrassment"
                     ],
         "answer":  "d",
-        "explanation":  "Correct spelling (double ‘r’, double ‘s’). Spotting Errors (Q89–103) — full segments printed, exact labels given"
+        "explanation":  "Correct spelling (double ‘r’, double ‘s’). Spotting Errors (Q89–103) - full segments printed, exact labels given"
     },
     {
         "id":  "eng-2020-I-other-grammar-q91",
@@ -1374,7 +1374,7 @@
                         "explains the first"
                     ],
         "answer":  "c",
-        "explanation":  "‘Much in the same way …’ signals a parallel case — an analogy to S1."
+        "explanation":  "‘Much in the same way …’ signals a parallel case - an analogy to S1."
     },
     {
         "id":  "eng-2024-I-other-grammar-q90",
@@ -1860,7 +1860,7 @@
                         "is the only possible explanation for the first"
                     ],
         "answer":  "b",
-        "explanation":  "‘10,000 hours’ is simply a specific version of ‘years of dedication’ — no conflict."
+        "explanation":  "‘10,000 hours’ is simply a specific version of ‘years of dedication’ - no conflict."
     },
     {
         "id":  "eng-2025-I-other-grammar-q48",
@@ -1914,7 +1914,7 @@
                         "qualifies the assertion of the first"
                     ],
         "answer":  "b",
-        "explanation":  "S2 sets a different case (cold Shimla) beside S1 (hot Delhi) without denying it — a contrast."
+        "explanation":  "S2 sets a different case (cold Shimla) beside S1 (hot Delhi) without denying it - a contrast."
     },
     {
         "id":  "eng-2026-I-other-grammar-q92",
@@ -2022,7 +2022,7 @@
                         "qualifies the assertion of the first"
                     ],
         "answer":  "d",
-        "explanation":  "S2 limits S1 — knowledge is power, but only a little of it is dangerous."
+        "explanation":  "S2 limits S1 - knowledge is power, but only a little of it is dangerous."
     },
     {
         "id":  "eng-2026-I-other-grammar-q96",
@@ -2076,7 +2076,7 @@
                         "qualifies the assertion of the first"
                     ],
         "answer":  "a",
-        "explanation":  "S2 states the opposite principle — that too many people are harmful."
+        "explanation":  "S2 states the opposite principle - that too many people are harmful."
     },
     {
         "id":  "eng-2026-I-other-grammar-q98",
@@ -2157,6 +2157,6 @@
                         "qualifies the assertion of the first"
                     ],
         "answer":  "a",
-        "explanation":  "If belief were truly universal, no one would doubt — S2 denies S1. Spotting Errors (Q111–115)"
+        "explanation":  "If belief were truly universal, no one would doubt - S2 denies S1. Spotting Errors (Q111–115)"
     }
 ]

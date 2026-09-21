@@ -1,0 +1,794 @@
+{
+    "brand":  "VicThree Defence",
+    "owner":  "by Anmol Sharma",
+    "tagline":  "CDS English Previous Year Questions",
+    "updated":  "",
+    "totals":  {
+                   "questions":  1457,
+                   "answered":  1457,
+                   "subjects":  11,
+                   "yearMin":  2016,
+                   "yearMax":  2026
+               },
+    "subjects":  [
+                     {
+                         "key":  "spotting-errors",
+                         "name":  "Spotting Errors",
+                         "file":  "data/spotting-errors.json",
+                         "count":  237,
+                         "answered":  237,
+                         "yearMin":  2016,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  237
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  237
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  23
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  25
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  5
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "reading-comprehension",
+                         "name":  "Reading Comprehension",
+                         "file":  "data/reading-comprehension.json",
+                         "count":  204,
+                         "answered":  204,
+                         "yearMin":  2016,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Comprehension \u0026 Ordering",
+                                            "count":  204
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Comprehension \u0026 Ordering":  [
+                                                                                 {
+                                                                                     "name":  "",
+                                                                                     "count":  204
+                                                                                 }
+                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  22
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  21
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  18
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  17
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  5
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "ordering-words",
+                         "name":  "Ordering of Words",
+                         "file":  "data/ordering-words.json",
+                         "count":  166,
+                         "answered":  166,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Comprehension \u0026 Ordering",
+                                            "count":  166
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Comprehension \u0026 Ordering":  [
+                                                                                 {
+                                                                                     "name":  "",
+                                                                                     "count":  166
+                                                                                 }
+                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  13
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "ordering-sentences",
+                         "name":  "Ordering of Sentences",
+                         "file":  "data/ordering-sentences.json",
+                         "count":  163,
+                         "answered":  163,
+                         "yearMin":  2016,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Comprehension \u0026 Ordering",
+                                            "count":  163
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Comprehension \u0026 Ordering":  [
+                                                                                 {
+                                                                                     "name":  "",
+                                                                                     "count":  163
+                                                                                 }
+                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "fill-blanks",
+                         "name":  "Fill in the Blanks",
+                         "file":  "data/fill-blanks.json",
+                         "count":  158,
+                         "answered":  158,
+                         "yearMin":  2016,
+                         "yearMax":  2024,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  158
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  158
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "cloze",
+                         "name":  "Cloze",
+                         "file":  "data/cloze.json",
+                         "count":  154,
+                         "answered":  154,
+                         "yearMin":  2016,
+                         "yearMax":  2025,
+                         "topics":  [
+                                        {
+                                            "name":  "Comprehension \u0026 Ordering",
+                                            "count":  154
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Comprehension \u0026 Ordering":  [
+                                                                                 {
+                                                                                     "name":  "Cloze",
+                                                                                     "count":  104
+                                                                                 },
+                                                                                 {
+                                                                                     "name":  "Selecting Words",
+                                                                                     "count":  50
+                                                                                 }
+                                                                             ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "CDS 2017-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2018-I",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2019-I",
+                                            "count":  15
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  19
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  20
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "parts-of-speech",
+                         "name":  "Parts of Speech / Word Classes",
+                         "file":  "data/parts-of-speech.json",
+                         "count":  104,
+                         "answered":  104,
+                         "yearMin":  2020,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  104
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "Parts of Speech",
+                                                                            "count":  59
+                                                                        },
+                                                                        {
+                                                                            "name":  "Word Classes",
+                                                                            "count":  45
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2020-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2025-II",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "prepositions-determiners",
+                         "name":  "Prepositions \u0026 Determiners",
+                         "file":  "data/prepositions-determiners.json",
+                         "count":  88,
+                         "answered":  88,
+                         "yearMin":  2021,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  88
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  88
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "sentence-completion",
+                         "name":  "Sentence Completion",
+                         "file":  "data/sentence-completion.json",
+                         "count":  59,
+                         "answered":  59,
+                         "yearMin":  2021,
+                         "yearMax":  2023,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  59
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  59
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2021-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2021-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-I",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2022-II",
+                                            "count":  10
+                                        },
+                                        {
+                                            "name":  "CDS 2023-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2023-II",
+                                            "count":  10
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "sentence-improvement",
+                         "name":  "Sentence Improvement",
+                         "file":  "data/sentence-improvement.json",
+                         "count":  44,
+                         "answered":  44,
+                         "yearMin":  2016,
+                         "yearMax":  2017,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  44
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "",
+                                                                            "count":  44
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2016-I",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2016-II",
+                                            "count":  14
+                                        },
+                                        {
+                                            "name":  "CDS 2017-I",
+                                            "count":  16
+                                        }
+                                    ]
+                     },
+                     {
+                         "key":  "other-grammar",
+                         "name":  "Other Grammar",
+                         "file":  "data/other-grammar.json",
+                         "count":  80,
+                         "answered":  80,
+                         "yearMin":  2018,
+                         "yearMax":  2026,
+                         "topics":  [
+                                        {
+                                            "name":  "Grammar \u0026 Usage",
+                                            "count":  80
+                                        }
+                                    ],
+                         "subtopics":  {
+                                           "Grammar \u0026 Usage":  [
+                                                                        {
+                                                                            "name":  "Reported Speech",
+                                                                            "count":  16
+                                                                        },
+                                                                        {
+                                                                            "name":  "Sentence Co-relationship",
+                                                                            "count":  22
+                                                                        },
+                                                                        {
+                                                                            "name":  "Spelling",
+                                                                            "count":  17
+                                                                        },
+                                                                        {
+                                                                            "name":  "Transformation of Sentences",
+                                                                            "count":  10
+                                                                        },
+                                                                        {
+                                                                            "name":  "Use of Phrasal Verbs",
+                                                                            "count":  5
+                                                                        },
+                                                                        {
+                                                                            "name":  "Voice (Active/Passive)",
+                                                                            "count":  10
+                                                                        }
+                                                                    ]
+                                       },
+                         "papers":  [
+                                        {
+                                            "name":  "CDS 2018-II",
+                                            "count":  11
+                                        },
+                                        {
+                                            "name":  "CDS 2019-II",
+                                            "count":  7
+                                        },
+                                        {
+                                            "name":  "CDS 2020-I",
+                                            "count":  30
+                                        },
+                                        {
+                                            "name":  "CDS 2024-I",
+                                            "count":  9
+                                        },
+                                        {
+                                            "name":  "CDS 2024-II",
+                                            "count":  5
+                                        },
+                                        {
+                                            "name":  "CDS 2025-I",
+                                            "count":  8
+                                        },
+                                        {
+                                            "name":  "CDS 2026-I",
+                                            "count":  10
+                                        }
+                                    ]
+                     }
+                 ]
+}

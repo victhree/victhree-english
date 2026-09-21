@@ -1,0 +1,1190 @@
+[
+    {
+        "id":  "eng-2016-I-sentence-improvement-q1",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  1,
+        "ref":  "CDS 2016-I, Q.1",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The police accused him FOR theft.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "with",
+                        "in",
+                        "of",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Accuse (someone) of (something)’."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q2",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  2,
+        "ref":  "CDS 2016-I, Q.2",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He wanted THAT I LEFT immediately.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "I may leave",
+                        "me to leave",
+                        "I leave",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Want + object + to-infinitive’ (‘wanted me to leave’)."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q3",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  3,
+        "ref":  "CDS 2016-I, Q.3",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This is to certify that I KNOW Mr. J.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "am knowing",
+                        "had known",
+                        "have known",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "In such certifications, the present perfect ‘have known’ (a state up to now) is preferred."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q4",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  4,
+        "ref":  "CDS 2016-I, Q.4",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "They took away everything THAT BELONGED to him.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "that had been belonging",
+                        "that belong",
+                        "that has been belonging",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘That belonged’ (past) agrees with the past ‘took’."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q5",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  5,
+        "ref":  "CDS 2016-I, Q.5",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It was the mother of the girl OF WHOSE VOICE I had recognised.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "whose voice",
+                        "the voice of who",
+                        "voice whose",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "The possessive relative is ‘whose voice’ (no extra ‘of’)."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q6",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  6,
+        "ref":  "CDS 2016-I, Q.6",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The Executive Council IS CONSISTED OF ten members.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "consists of",
+                        "comprises of",
+                        "constituted of",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Consist of’ is active and stative — never passive."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q7",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  7,
+        "ref":  "CDS 2016-I, Q.7",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The maid was LAYING the table for dinner.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "setting up",
+                        "lying",
+                        "sorting out",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Lay the table’ (= set it) is correct (lay = to place)."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q8",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  8,
+        "ref":  "CDS 2016-I, Q.8",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We have so arranged the matters AND ONE of us is always on duty.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "that one of us",
+                        "so that one of us",
+                        "such that one of us",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘So … that’ expresses purpose/result."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q9",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  9,
+        "ref":  "CDS 2016-I, Q.9",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "HARDLY HAVE WE GOT into the forest when it began to rain.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Hardly we got",
+                        "We had hardly got",
+                        "Hardly had we got (!)",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Hardly had … when’ uses inversion + past perfect."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q10",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  10,
+        "ref":  "CDS 2016-I, Q.10",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Each time he felt tired he LIED down.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "lies",
+                        "lays",
+                        "lay",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Lay’ = past of ‘lie’ (recline); ‘lied’ = told an untruth."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q11",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  11,
+        "ref":  "CDS 2016-I, Q.11",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Though it was raining, BUT I went out.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "but yet I",
+                        "I",
+                        "however I",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "Do not use ‘though’ and ‘but’ together; keep one."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q14",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  14,
+        "ref":  "CDS 2016-I, Q.14",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "No one enjoys TO DECEIVE his family.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "deceiving",
+                        "for deceiving",
+                        "deceive",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Enjoy’ is followed by a gerund (‘deceiving’)."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q15",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  15,
+        "ref":  "CDS 2016-I, Q.15",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Have you ever SAW the flower of a pumpkin plant?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "see",
+                        "seeing",
+                        "seen",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "With ‘have’, use the past participle ‘seen’."
+    },
+    {
+        "id":  "eng-2016-I-sentence-improvement-q16",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "I",
+        "paper":  "CDS 2016-I",
+        "qno":  16,
+        "ref":  "CDS 2016-I, Q.16",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It is an ancient, historical place and it once BELONGS to the Pandavas.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "belonged",
+                        "belonging",
+                        "belong",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "A past fact (‘once’) takes the past tense ‘belonged’. Fill in the Blank (Q46–55)"
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q15",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  15,
+        "ref":  "CDS 2016-II, Q.15",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "SUPPOSE IF you are selected, will you give us a treat?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Supposing if",
+                        "If suppose",
+                        "If",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Suppose if’ is redundant — use ‘If’ (or ‘Supposing’) alone."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q16",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  16,
+        "ref":  "CDS 2016-II, Q.16",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I WOULD RATHER HAVE a noble enemy than a friend.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "would more have",
+                        "would sooner have (!)",
+                        "will have",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Would rather … than’ is the correct pattern."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q17",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  17,
+        "ref":  "CDS 2016-II, Q.17",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He decided to take the help of a guide lest HE MAY MISS the way.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "he should miss",
+                        "he will miss",
+                        "he might fail to see",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Lest’ is followed by ‘should + base verb’."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q18",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  18,
+        "ref":  "CDS 2016-II, Q.18",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He wanted my permission TO TAKING PART IN sports.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "to take part in",
+                        "for to take part in",
+                        "for to taking part in",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Permission to + base verb’."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q19",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  19,
+        "ref":  "CDS 2016-II, Q.19",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We are doing this IN THE INTEREST OF THE POORS.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "in the interests of the poors",
+                        "in the interests of the poor",
+                        "for the interests of the poor",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘The poor’ (‘the + adjective’ for a class) has no plural ‘poors’."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q20",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  20,
+        "ref":  "CDS 2016-II, Q.20",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He reached HIS DESTINATION at night.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "destination",
+                        "at his destination",
+                        "on his destination",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Reach’ is transitive: ‘reached his destination’ (no preposition)."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q21",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  21,
+        "ref":  "CDS 2016-II, Q.21",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "One is often pleased WITH HIMSELF.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "with one\u0027s self",
+                        "with themselves",
+                        "with oneself",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘One’ must be followed by ‘oneself’."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q22",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  22,
+        "ref":  "CDS 2016-II, Q.22",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "UNLESS you ARE NOT very careful, you will run into debt.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "are very",
+                        "will be very",
+                        "maybe",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Unless’ = if not, so drop the extra ‘not’."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q23",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  23,
+        "ref":  "CDS 2016-II, Q.23",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I AM LIVING in Bombay for the last ten years.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "had lived",
+                        "have been living",
+                        "lived",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "A situation continuing up to now with ‘for … years’ takes the present perfect continuous."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q24",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  24,
+        "ref":  "CDS 2016-II, Q.24",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This scooter is not as efficient as it used to be; INSTEAD it is still a very useful machine.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "similarly",
+                        "furthermore",
+                        "nevertheless",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Nevertheless’ (= in spite of that) fits the contrast."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q25",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  25,
+        "ref":  "CDS 2016-II, Q.25",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The teacher as well as his wife WERE INVITED.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "was invited",
+                        "were also invited",
+                        "were being invited",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘As well as’ — the verb agrees with the main subject ‘the teacher’ (singular)."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q27",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  27,
+        "ref":  "CDS 2016-II, Q.27",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My brother is looking forward TO MEETING his employer tomorrow.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "to meet",
+                        "for meeting",
+                        "that he may meet",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Look forward to’ is followed by a gerund (‘meeting’)."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q28",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  28,
+        "ref":  "CDS 2016-II, Q.28",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My father has given his ASCENT for my long tour.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "accent",
+                        "approof",
+                        "assent",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Assent’ = agreement/consent; ‘ascent’ = a climb."
+    },
+    {
+        "id":  "eng-2016-II-sentence-improvement-q29",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2016,
+        "session":  "II",
+        "paper":  "CDS 2016-II",
+        "qno":  29,
+        "ref":  "CDS 2016-II, Q.29",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Heavy work has been THRUSTED on me.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "has been thrust",
+                        "has thrusted",
+                        "has thrust down",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Thrust’ is irregular (thrust–thrust–thrust); ‘thrusted’ is wrong. Spotting Errors (Q102–120) — error and correction identified"
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q67",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  67,
+        "ref":  "CDS 2017-I, Q.67",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "March sat across the mountains till you WILL REACH an island.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "reached",
+                        "reach (!)",
+                        "have reached",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "After ‘till’ do not use ‘will’; the tense follows the (past) main clause → ‘reached’."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q68",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  68,
+        "ref":  "CDS 2017-I, Q.68",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It is hard these days to COPE WITH the rising prices.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "cope by",
+                        "cope up with",
+                        "to be coped with",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Cope with’ is the correct phrasal verb."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q69",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  69,
+        "ref":  "CDS 2017-I, Q.69",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He took a LOAN of hundred rupees from me.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "debt",
+                        "demand",
+                        "advance",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Took a loan … from me’ is correct."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q70",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  70,
+        "ref":  "CDS 2017-I, Q.70",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "FROM THE LAST five days it has been raining torrentially.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Since the last",
+                        "For the last (!)",
+                        "Since last",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "A duration with the present perfect continuous takes ‘for’, not ‘from’."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q71",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  71,
+        "ref":  "CDS 2017-I, Q.71",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The teacher, along with her three children, WERE TAKEN to hospital.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "was taken",
+                        "had taken",
+                        "had being taken",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Along with …’ does not change the number of the subject ‘teacher’ (singular)."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q72",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  72,
+        "ref":  "CDS 2017-I, Q.72",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The Prime Minister had WIDE-RANGING talks on the international dispute.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "widely-ranged",
+                        "wide-ranged",
+                        "wide-range",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Wide-ranging’ is the correct compound adjective."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q73",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  73,
+        "ref":  "CDS 2017-I, Q.73",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The man disappeared after he WAS RESCUING a boy from drowning.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "was rescued",
+                        "has been rescued",
+                        "had rescued",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "The earlier completed action takes the past perfect ‘had rescued’."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q74",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  74,
+        "ref":  "CDS 2017-I, Q.74",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I shall be obliged if you could GRANT me an interview.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "give",
+                        "allow",
+                        "permit",
+                        "No improvement"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Grant (someone) an interview’ is correct."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q75",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  75,
+        "ref":  "CDS 2017-I, Q.75",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "By 8.00 in the morning he WROTE four letters to his friends.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "had written",
+                        "had been writing",
+                        "was writing",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘By + past time’ signals an action completed before then → past perfect."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q76",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  76,
+        "ref":  "CDS 2017-I, Q.76",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "But for one witness the accused OUGHT TO HAVE been sent to jail.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "would have",
+                        "had",
+                        "should have (!)",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘But for …’ (= if it had not been for) takes ‘would have been’."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q77",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  77,
+        "ref":  "CDS 2017-I, Q.77",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is now looking ABOUT a job.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "for",
+                        "after",
+                        "into",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Look for’ = search for."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q78",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  78,
+        "ref":  "CDS 2017-I, Q.78",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He did not abide WITH my decision.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "to",
+                        "by",
+                        "for",
+                        "No improvement"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Abide by’ = accept/comply with."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q83",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  83,
+        "ref":  "CDS 2017-I, Q.83",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The angry neighbours never PASSED FROM each other without making rude remarks.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "passed on",
+                        "passed against",
+                        "passed",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Pass someone’ (walk past) is transitive — no preposition."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q86",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  86,
+        "ref":  "CDS 2017-I, Q.86",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Poor Tom LAID in the shade of a tree before he could walk further.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "lied",
+                        "lain (!)",
+                        "lay (!)",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Lay’ is the past of ‘lie’ (recline); ‘laid’ is the past of ‘lay’ (put down)."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q87",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  87,
+        "ref":  "CDS 2017-I, Q.87",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "You must ACCUSTOM YOURSELF WITH new ideas.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "accustomed with",
+                        "accustom to",
+                        "accustom yourself to",
+                        "No improvement"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Accustom oneself to (something)’."
+    },
+    {
+        "id":  "eng-2017-I-sentence-improvement-q88",
+        "subject":  "Sentence Improvement",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Sentence Improvement",
+        "year":  2017,
+        "session":  "I",
+        "paper":  "CDS 2017-I",
+        "qno":  88,
+        "ref":  "CDS 2017-I, Q.88",
+        "directions":  "Look at the underlined part of each sentence (not marked in the scan). Choose the best substitution, or \u0027No improvement\u0027. Only items that scanned cleanly are included.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This telephone number IS NOT EXISTING.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "does not exist",
+                        "has not been existing",
+                        "has had no existence",
+                        "No improvement"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Exist’ is a stative verb and is not used in the continuous. Fill in the Blanks (Q111–120)"
+    }
+]

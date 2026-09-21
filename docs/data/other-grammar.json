@@ -1,0 +1,2162 @@
+[
+    {
+        "id":  "eng-2018-II-other-grammar-q110",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  110,
+        "ref":  "CDS 2018-II, Q.110",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The captain said to his soldiers, \"Move forward and face the target now.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The captain ordered his soldiers to move forward and face the target",
+                        "The captain informed his soldiers that they should move forward and face the target now",
+                        "The captain asked his soldiers to move forward and face the target then",
+                        "The captain told his soldiers that they move forward and face the target immediately"
+                    ],
+        "answer":  "a",
+        "explanation":  "A command → ‘ordered + to-infinitive’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q111",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  111,
+        "ref":  "CDS 2018-II, Q.111",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Vivek said to his friend, \"Could you please turn off the switch?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Vivek told his friend to turn off the switch",
+                        "Vivek asked his friend to please turn off the switch",
+                        "Vivek requested his friend to turn off the switch",
+                        "Vivek told his friend that he should turn off the switch"
+                    ],
+        "answer":  "c",
+        "explanation":  "A polite request → ‘requested + to-infinitive’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q112",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  112,
+        "ref":  "CDS 2018-II, Q.112",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The manager said to his colleagues, \"We have received a serious threat to our business now and we need to act to face it.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The manager told his colleagues that they had received a serious threat to our business then and they needed to act to face it",
+                        "The manager told his colleagues that they received a serious threat to their business then and they needed to act to face it (!)",
+                        "The manager said his colleagues that they had received a serious threat to our business then and they needed to act to face it",
+                        "The manager told his colleagues that they had received a serious threat to their business at that time and they needed to act to face it"
+                    ],
+        "answer":  "d",
+        "explanation":  "Backshift: ‘have received’ → ‘had received’, ‘our’ → ‘their’, ‘now’ → ‘at that time’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q113",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  113,
+        "ref":  "CDS 2018-II, Q.113",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Romila said to Rahim, \"Where were your ideas when we faced the troubles last week?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Romila asked Rahim where his ideas had been when they had faced the trouble the week before",
+                        "Romila asked Rahim where his ideas had been when they faced the trouble the last week",
+                        "Romila requested Rahim where his ideas had been when they faced the trouble the week before",
+                        "Romila told Rahim where his ideas were when they faced the trouble the week before"
+                    ],
+        "answer":  "a",
+        "explanation":  "Reported question + backshift (‘were’ → ‘had been’, ‘faced’ → ‘had faced’, ‘last week’ → ‘the week before’)."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q114",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  114,
+        "ref":  "CDS 2018-II, Q.114",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The actor said to his co-star, Sarita, \"Will you go with me for a cup of tea in the evening today?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The actor said to his co-star if she would go for a cup of tea with him in evening today",
+                        "The actor told his co-star, Sarita if she would go with him for a cup of tea in evening that day",
+                        "The actor requests his co-star, Sarita if she would go with him for a cup of tea in that evening that day",
+                        "The actor asked his co-star Sarita if she would go with him for a cup of tea in the evening that day"
+                    ],
+        "answer":  "d",
+        "explanation":  "Reported yes/no question: ‘asked … if’; ‘will’ → ‘would’, ‘me’ → ‘him’, ‘today’ → ‘that day’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q115",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  115,
+        "ref":  "CDS 2018-II, Q.115",
+        "directions":  "A direct statement is given; select the correct statement in indirect speech. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The preacher said to the crowd, \"The Sun rises everyday for all of us without any expectations in return.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The preacher told the crowd that the Sun rose everyday for all of them without any expectations in return",
+                        "The preacher told the crowd that the Sun rises everyday for all of them without any expectations in return (option unclear in scan) (!)",
+                        "The preacher told the crowd that the Sun has risen everyday for all of them without any expectations in return",
+                        "The preacher told the crowd that the Sun rises everyday for all of them without any expectations in return"
+                    ],
+        "answer":  "d",
+        "explanation":  "A universal truth keeps the present tense; ‘us’ → ‘them’. Passive Voice (Q116–120)"
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q116",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Passive Voice",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  116,
+        "ref":  "CDS 2018-II, Q.116",
+        "directions":  "A sentence in active voice is given; select the correct passive-voice statement. (The active sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The members of the parliament elect their group leader either by consensus or by voice vote. Correct passive-voice statement:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The group leader is elected by the members of the parliament either by consensus or by voice vote",
+                        "The group leader was elected by the members of the parliament either by consensus or by voice vote",
+                        "The group leader has been elected by the members of the parliament either by consensus or by voice vote",
+                        "The members of the parliament are elected by their group leader either by consensus or by voice vote"
+                    ],
+        "answer":  "a",
+        "explanation":  "Present simple passive: is elected."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q117",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Passive Voice",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  117,
+        "ref":  "CDS 2018-II, Q.117",
+        "directions":  "A sentence in active voice is given; select the correct passive-voice statement. (The active sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "All the examinees have answered one particular question in the long answer writing section. Correct passive-voice statement:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "One particular question is answered by all the examinees in the long answer writing section",
+                        "One particular question was answered by all the examinees in the long answer writing section",
+                        "All the examinees answered one particular question in the long answer writing section",
+                        "One particular question has been answered by all the examinees in the long answer writing section"
+                    ],
+        "answer":  "d",
+        "explanation":  "Present perfect passive: has been answered."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q118",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Passive Voice",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  118,
+        "ref":  "CDS 2018-II, Q.118",
+        "directions":  "A sentence in active voice is given; select the correct passive-voice statement. (The active sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The writer who passed away recently has authored a dozen novels and a number of poetry collections. Correct passive-voice statement:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "A dozen novels and a number of poetry collections have been authored by the writer who passed away recently",
+                        "A dozen novels and a number of poetry collections has been authored by the writer who passed away recently",
+                        "A dozen novels and a number of poetry collections were authored by the writer who passed away recently",
+                        "A dozen novels and a number of poetry collections had been authored by the writer who passed away recently"
+                    ],
+        "answer":  "a",
+        "explanation":  "Present perfect passive; the plural subject takes ‘have been’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q119",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Passive Voice",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  119,
+        "ref":  "CDS 2018-II, Q.119",
+        "directions":  "A sentence in active voice is given; select the correct passive-voice statement. (The active sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Shut the door. Correct passive-voice statement:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Shut the door",
+                        "Let the door be shut",
+                        "The door be shut",
+                        "The door is shut"
+                    ],
+        "answer":  "b",
+        "explanation":  "Passive of an imperative → ‘Let + object + be + V3’."
+    },
+    {
+        "id":  "eng-2018-II-other-grammar-q120",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Passive Voice",
+        "year":  2018,
+        "session":  "II",
+        "paper":  "CDS 2018-II",
+        "qno":  120,
+        "ref":  "CDS 2018-II, Q.120",
+        "directions":  "A sentence in active voice is given; select the correct passive-voice statement. (The active sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "India won freedom with the blood and sweat of hundreds and thousands of Indians. Correct passive-voice statement:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "India had won freedom with the blood and sweat of hundreds and thousands of Indians",
+                        "Freedom had been won by India with the blood and sweat of hundreds and thousands of Indians",
+                        "Freedom was won by India with the blood and sweat of hundreds and thousands of Indians",
+                        "Freedom was won by hundreds and thousands of Indians with their blood and sweat"
+                    ],
+        "answer":  "c",
+        "explanation":  "Simple past passive: was won by."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q1",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  1,
+        "ref":  "CDS 2019-II, Q.1",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Accommodate",
+                        "Acomodate",
+                        "Accomdate",
+                        "Acomodait"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling (double ‘c’, double ‘m’)."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q2",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  2,
+        "ref":  "CDS 2019-II, Q.2",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Recommand",
+                        "Reccommend",
+                        "Recommend",
+                        "Reccomand"
+                    ],
+        "answer":  "c",
+        "explanation":  "Correct spelling (one ‘c’, double ‘m’)."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q3",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  3,
+        "ref":  "CDS 2019-II, Q.3",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Argyument",
+                        "Argument",
+                        "Arguement",
+                        "Argyooment"
+                    ],
+        "answer":  "b",
+        "explanation":  "Correct spelling (no ‘e’ after ‘argu’)."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q4",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  4,
+        "ref":  "CDS 2019-II, Q.4",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Decisive",
+                        "Desisive",
+                        "Descisive",
+                        "Desicive"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q5",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  5,
+        "ref":  "CDS 2019-II, Q.5",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Aggressive",
+                        "Agresive",
+                        "Agressive",
+                        "Aggresive"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling (double ‘g’, double ‘s’)."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q6",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  6,
+        "ref":  "CDS 2019-II, Q.6",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Assassination",
+                        "Asassination",
+                        "Asasination",
+                        "Assasination"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2019-II-other-grammar-q7",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling",
+        "year":  2019,
+        "session":  "II",
+        "paper":  "CDS 2019-II",
+        "qno":  7,
+        "ref":  "CDS 2019-II, Q.7",
+        "directions":  "A word is spelled in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which spelling is correct?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Embarassment",
+                        "Embbarasment",
+                        "Embrasement",
+                        "Embarrassment"
+                    ],
+        "answer":  "d",
+        "explanation":  "Correct spelling (double ‘r’, double ‘s’). Spotting Errors (Q89–103) — full segments printed, exact labels given"
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q91",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  91,
+        "ref":  "CDS 2020-I, Q.91",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Continuum",
+                        "Continuem",
+                        "Contuneim",
+                        "Continueiam"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q92",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  92,
+        "ref":  "CDS 2020-I, Q.92",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Stretegy",
+                        "Stretagy",
+                        "Stratagy",
+                        "Strategy"
+                    ],
+        "answer":  "d",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q93",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  93,
+        "ref":  "CDS 2020-I, Q.93",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Commisionor",
+                        "Commisioner",
+                        "Commissioner",
+                        "Comissioner"
+                    ],
+        "answer":  "c",
+        "explanation":  "Correct spelling (double ‘m’, double ‘s’)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q94",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  94,
+        "ref":  "CDS 2020-I, Q.94",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Vacum",
+                        "Vacuum",
+                        "Vacuem",
+                        "Vacam"
+                    ],
+        "answer":  "b",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q95",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  95,
+        "ref":  "CDS 2020-I, Q.95",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Psephology",
+                        "Psefoloagy",
+                        "Sephology",
+                        "Psyphology"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q96",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  96,
+        "ref":  "CDS 2020-I, Q.96",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Neuphrology",
+                        "Nephrology",
+                        "Neprology",
+                        "Neaprology"
+                    ],
+        "answer":  "b",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q97",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  97,
+        "ref":  "CDS 2020-I, Q.97",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Psudonym",
+                        "Pseudonym",
+                        "Pseudanym",
+                        "Seeudonym"
+                    ],
+        "answer":  "b",
+        "explanation":  "Correct spelling (silent ‘p’)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q98",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  98,
+        "ref":  "CDS 2020-I, Q.98",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pnumonia",
+                        "Neumonia",
+                        "Pneumonia",
+                        "Numania"
+                    ],
+        "answer":  "c",
+        "explanation":  "Correct spelling (silent ‘p’)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q99",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  99,
+        "ref":  "CDS 2020-I, Q.99",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Resilient",
+                        "Resilint",
+                        "Risilient",
+                        "Realisent"
+                    ],
+        "answer":  "a",
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q100",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Spelling",
+        "topicOriginal":  "Spelling Mistakes",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  100,
+        "ref":  "CDS 2020-I, Q.100",
+        "directions":  "In this section a word is spelt in four different ways. Identify the one which is correct.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which one of the following alternatives has the correct spelling?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Suplementary",
+                        "Supplementary",
+                        "Supplementery",
+                        "Supplemantory"
+                    ],
+        "answer":  "b",
+        "explanation":  "Correct spelling. Transformation of Sentences (Q101–110)"
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q101",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  101,
+        "ref":  "CDS 2020-I, Q.101",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The officer will return from China on Monday. You can meet him. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "You can meet the officer when he returned from China on Monday.",
+                        "You can meet the officer when he will return from China on Monday.",
+                        "You can meet the officer when he returns from China on Monday.",
+                        "The officer will meet you when you return from China on Monday."
+                    ],
+        "answer":  "c",
+        "explanation":  "A time clause with ‘when’ takes the present simple for a future meaning."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q102",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  102,
+        "ref":  "CDS 2020-I, Q.102",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is hard-working. He is honest too. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "He is not only hard-working, but also honest.",
+                        "He is only hard-working and honest.",
+                        "He is hard-working but honest too.",
+                        "He is not hard-working but also honest."
+                    ],
+        "answer":  "a",
+        "explanation":  "Correlative conjunction ‘not only … but also’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q103",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  103,
+        "ref":  "CDS 2020-I, Q.103",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Parents have been waiting since morning. They want to meet the counsellor. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The counsellor has been waiting to meet the parents since morning.",
+                        "Parents had been waiting to meet the counsellor since the morning.",
+                        "Parents are waiting to meet the counsellor in the morning.",
+                        "Parents have been waiting since morning to meet the counsellor."
+                    ],
+        "answer":  "d",
+        "explanation":  "Present perfect continuous + infinitive of purpose."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q104",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  104,
+        "ref":  "CDS 2020-I, Q.104",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Minchi should have worked hard. She would have cleared the test. Which is the correct combination using \u0027If\u0027 clause?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "If Minchi had worked hard, she would have cleared the test.",
+                        "Had not Minchi worked hard, she could not have cleared the test.",
+                        "If Minchi has worked hard, she would have cleared the test.",
+                        "If Minchi had worked hard, she will have cleared the test."
+                    ],
+        "answer":  "a",
+        "explanation":  "Third conditional (past unreal)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q105",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  105,
+        "ref":  "CDS 2020-I, Q.105",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He has been trying his level best to win. He could not succeed. Which is correct using \u0027though\u0027?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Though he is trying his level best to win, he could not succeed.",
+                        "He is trying his level best to win, though he could not succeed.",
+                        "Though he has been trying his level best to win, he could not succeed.",
+                        "Though he had been trying his level best to win, he could not succeed."
+                    ],
+        "answer":  "c",
+        "explanation":  "Concession ‘though’ + present perfect continuous."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q106",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  106,
+        "ref":  "CDS 2020-I, Q.106",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Gandhiji preached peace. He is an apostle of peace. Which is correct using a \u0027relative clause\u0027?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Gandhiji preached peace and he is an apostle of peace. (!)",
+                        "Gandhiji preached peace because he is an apostle of peace.",
+                        "Gandhiji who preached peace is called an apostle of peace.",
+                        "Gandhiji is an apostle of peace because he preached peace."
+                    ],
+        "answer":  "c",
+        "explanation":  "A relative clause (‘who preached peace’) combines the two."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q107",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  107,
+        "ref":  "CDS 2020-I, Q.107",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Priya reached the station. The bus left before her. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "When Priya reached the station, the bus had already left.",
+                        "When Priya had reached the station, the bus already left.",
+                        "Priya reached the station, when the bus already left.",
+                        "When Priya had reached the station, the bus had already left."
+                    ],
+        "answer":  "a",
+        "explanation":  "The earlier action takes the past perfect (‘had left’)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q108",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  108,
+        "ref":  "CDS 2020-I, Q.108",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is too tired. He could not stand. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "He is so tired that he could scarcely stand.",
+                        "He is too tired and cannot stand.",
+                        "He will not stand and he is very tired.",
+                        "He is so tired that he could not be standing."
+                    ],
+        "answer":  "a",
+        "explanation":  "‘So … that’ expresses cause and result."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q109",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  109,
+        "ref":  "CDS 2020-I, Q.109",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The teacher entered the classroom. All students stopped talking. Which is the correct combination of the two sentences?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "No sooner did the teacher enter the classroom than the students stopped talking.",
+                        "As soon as the teacher entered the classroom all students were asked to stop talking.",
+                        "All students stopped talking as the teacher enters the classroom.",
+                        "No sooner did the students stop talking than the teacher entered the classroom."
+                    ],
+        "answer":  "a",
+        "explanation":  "‘No sooner … than’ with inversion; the teacher’s action comes first."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q110",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Transformation of Sentences",
+        "topicOriginal":  "Transformation of Sentences",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  110,
+        "ref":  "CDS 2020-I, Q.110",
+        "directions":  "Two sentences are given and you must find the option that correctly combines both. (The two source sentences are shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Kavya is interested in reading books. Her sister shows interest in outdoor games. Which is correct using \u0027whereas\u0027?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Kavya is interested in reading books whereas her sister\u0027s interest is outdoor games.",
+                        "Kavya is interested in reading books whereas her sister is not interested in reading. (!)",
+                        "Kavya is interested in reading whereas her sister\u0027s interest is outdoor. (!)",
+                        "Kavya is interested in reading books whereas her sister\u0027s interest is to play outside."
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Whereas’ draws the contrast between the two interests. Reported Speech (Q111–120)"
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q111",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  111,
+        "ref":  "CDS 2020-I, Q.111",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Rahul said to his teacher, \"Madam, what is the way to solve the question?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Rahul asked his teacher what the way to solve the question was.",
+                        "Rahul told his teacher what was the way to solve the question.",
+                        "Rahul asked to his teacher what the way was to solve the question.",
+                        "Rahul told his teacher what the way was to solve the question."
+                    ],
+        "answer":  "a",
+        "explanation":  "Reported question: ‘asked’, no inversion, verb moves to the end."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q112",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  112,
+        "ref":  "CDS 2020-I, Q.112",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He said to his friend, \"Could you please close the door?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "He requested his friend to close the door.",
+                        "He requested his friend to please close the door.",
+                        "He ordered his friend to close the door.",
+                        "He wanted his friend to close the door for him."
+                    ],
+        "answer":  "a",
+        "explanation":  "A polite request → ‘requested + to-infinitive’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q113",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  113,
+        "ref":  "CDS 2020-I, Q.113",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Raj said to Sheela, \"The Sun rises in the east.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Raj told Sheela that the Sun rose in the east.",
+                        "Raj told Sheela that the Sun rises in the east.",
+                        "Raj asked Sheela that the Sun rises in the east.",
+                        "Raj said to Sheela that the Sun has arisen in the east."
+                    ],
+        "answer":  "b",
+        "explanation":  "A universal truth keeps the present tense (no backshift)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q114",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  114,
+        "ref":  "CDS 2020-I, Q.114",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Navanitha said to her friends, \"What a scintillating beauty it is!\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Navanitha told to her friends that it was a scintillating beauty.",
+                        "Navanitha exclaimed to her friends what a scintillating beauty it was.",
+                        "Navanitha asked her friends whether it was a scintillating beauty.",
+                        "Navanitha exclaimed to her friends that it was a scintillating beauty."
+                    ],
+        "answer":  "d",
+        "explanation":  "An exclamation is reported with ‘exclaimed that …’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q115",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  115,
+        "ref":  "CDS 2020-I, Q.115",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The Captain said to the soldiers, \"March forward and aim at the peak of the hill today.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The Captain requested the soldiers to march forward and aim at the peak of the hill that day.",
+                        "The Captain ordered the soldiers to march forward and aim at the peak of the hill today.",
+                        "The Captain ordered the soldiers to march forward and aim at the peak of the hill that day.",
+                        "The Captain told the soldiers that they should march forward and aim at the peak of the hill that day."
+                    ],
+        "answer":  "c",
+        "explanation":  "A command → ‘ordered + to-infinitive’; ‘today’ → ‘that day’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q116",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  116,
+        "ref":  "CDS 2020-I, Q.116",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "\"Where were you last evening?\" said the lady to her maid. Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The lady asked her maid where she had been the previous evening.",
+                        "The lady asked her maid where she had been in the last evening.",
+                        "The lady asked her maid where had she been the evening before.",
+                        "The lady told her maid where she had been to the last evening."
+                    ],
+        "answer":  "a",
+        "explanation":  "Reported question + backshift (‘were’ → ‘had been’; ‘last evening’ → ‘the previous evening’)."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q117",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  117,
+        "ref":  "CDS 2020-I, Q.117",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "\"Those who sowed the seeds last season will reap the harvest this season,\" said the leader to her followers. Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The leader said to her followers that those who sowed the seeds the previous season would reap the harvest that season.",
+                        "The leader addressed her followers that those who have sown the seeds the previous season would reap the harvest this season.",
+                        "The leader addressed her followers that those who had sown the seeds the previous season would reap the harvest that season.",
+                        "The leader advised her followers that those who sow the seeds the previous season would reap the harvest this season."
+                    ],
+        "answer":  "c",
+        "explanation":  "Backshift: ‘sowed’ → ‘had sown’, ‘will’ → ‘would’, ‘last/this season’ → ‘the previous/that season’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q118",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  118,
+        "ref":  "CDS 2020-I, Q.118",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He said to his manager, \"Could you please pass the bill this week?\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "He told his manager that bill to be passed.",
+                        "He requested his manager to pass the bill that week.",
+                        "He ordered his manager to pass the bill that week.",
+                        "He requested his manager to pass the bill this week."
+                    ],
+        "answer":  "b",
+        "explanation":  "Polite request → ‘requested + to-infinitive’; ‘this week’ → ‘that week’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q119",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  119,
+        "ref":  "CDS 2020-I, Q.119",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The village chief said to the villagers, \"All of us need to adopt new regulations. We will protect our Earth forever.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The village chief ordered the villagers that all of them needed to adopt new regulations and they would protect their Earth forever.",
+                        "The village chief told the villagers that all of them need to adopt new regulations and they will protect their Earth forever.",
+                        "The village chief wanted the villagers needed to adopt new regulations and they would protect their Earth forever.",
+                        "The village chief told the villagers that all of them needed to adopt new regulations and they would protect their Earth forever."
+                    ],
+        "answer":  "d",
+        "explanation":  "Backshift: ‘need’ → ‘needed’, ‘will’ → ‘would’, ‘our’ → ‘their’."
+    },
+    {
+        "id":  "eng-2020-I-other-grammar-q120",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Reported Speech",
+        "topicOriginal":  "Reported Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  120,
+        "ref":  "CDS 2020-I, Q.120",
+        "directions":  "A direct-speech sentence is given and you must find the correct indirect-speech version. (The direct-speech sentence is shown first, then the four options.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The grandfather said to the baby, \"May you live long with all good things of life.\" Correct indirect speech:",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The grandfather blessed to the baby with long life and all good things of life.",
+                        "The grandfather asked the baby that she would live long with all good things of life.",
+                        "The grandfather wanted the baby to live long with all good things of life.",
+                        "The grandfather blessed the baby that she would live long with all good things of life."
+                    ],
+        "answer":  "d",
+        "explanation":  "A wish/optative is reported with ‘blessed … that … would’."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q86",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Correlating Sentences",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  86,
+        "ref":  "CDS 2024-I, Q.86",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the co-relationship of the second sentence to the first. (Some option wordings were garbled in the scan - marked (!).)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: The subject develops concepts that enable the reader to apply knowledge about government and the idea of participative citizenship. The second sentence:",
+        "subs":  [
+                     "S1: Civics classes focus on citizenship and governance."
+                 ],
+        "options":  [
+                        "establishes the first",
+                        "develops an axiom based on the first",
+                        "contradicts the first",
+                        "delegitimises the premise of the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "S2 spells out what civics does, which supports/grounds S1’s claim."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q87",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Correlating Sentences",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  87,
+        "ref":  "CDS 2024-I, Q.87",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the co-relationship of the second sentence to the first. (Some option wordings were garbled in the scan - marked (!).)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: India has followed a path towards rapid economic growth, but by abiding by the norms of a democratic polity. The second sentence:",
+        "subs":  [
+                     "S1: China has made rapid economic strides but at the cost of democracy."
+                 ],
+        "options":  [
+                        "establishes the first (!)",
+                        "explains what is stated in the first",
+                        "offers a contrast to the first",
+                        "confirms the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "India (growth WITH democracy) is set against China (growth WITHOUT democracy)."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q89",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Correlating Sentences",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  89,
+        "ref":  "CDS 2024-I, Q.89",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the co-relationship of the second sentence to the first. (Some option wordings were garbled in the scan - marked (!).)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Much in the same way that Gandhi was influenced by Tolstoy, in the USA, Martin Luther King Jr. shaped his Civil Rights Movement based on Gandhian principles. The second sentence:",
+        "subs":  [
+                     "S1: The concept of Ahimsa was adopted by Gandhiji after he was introduced to it by Tolstoy. The latter first read about it in a German translation of Thirukkural, the great moral treatise in Tamil."
+                 ],
+        "options":  [
+                        "(!) option unclear in scan",
+                        "defends the premise of the first",
+                        "provides an analogy for the first",
+                        "explains the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Much in the same way …’ signals a parallel case — an analogy to S1."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q90",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Correlating Sentences",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  90,
+        "ref":  "CDS 2024-I, Q.90",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the co-relationship of the second sentence to the first. (Some option wordings were garbled in the scan - marked (!).)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: As captain, XYZ has won considerably more matches for India than any other captain. The second sentence:",
+        "subs":  [
+                     "S1: The best ever cricket captain India has ever had is XYZ."
+                 ],
+        "options":  [
+                        "rebuts the first",
+                        "is the premise for the first",
+                        "contrasts with the first",
+                        "dilutes the first"
+                    ],
+        "answer":  "b",
+        "explanation":  "S2 supplies the evidence/reason (the win record) that leads to the conclusion in S1. Use of Phrasal Verbs (Q111–115)"
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q111",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Use of Phrasal Verbs",
+        "topicOriginal":  "Use of Phrasal Verbs",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  111,
+        "ref":  "CDS 2024-I, Q.111",
+        "directions":  "Fill the blank with the most appropriate phrasal verb.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She was advised by her coach to ______ to form if she wanted to do well in the tournament.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "get on",
+                        "get along",
+                        "get done",
+                        "get back"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Get back to form’ = return to one’s best condition."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q112",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Use of Phrasal Verbs",
+        "topicOriginal":  "Use of Phrasal Verbs",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  112,
+        "ref":  "CDS 2024-I, Q.112",
+        "directions":  "Fill the blank with the most appropriate phrasal verb.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She said goodbye and ______ along the road.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "tripped out",
+                        "tripped over",
+                        "tripped off",
+                        "tripped in"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Tripped off along the road’ = went off lightly/cheerfully after saying goodbye."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q113",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Use of Phrasal Verbs",
+        "topicOriginal":  "Use of Phrasal Verbs",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  113,
+        "ref":  "CDS 2024-I, Q.113",
+        "directions":  "Fill the blank with the most appropriate phrasal verb.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The team reported that they had ______ the contract with tooth and comb before forwarding its recommendation.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "pored over",
+                        "plied over",
+                        "poured over",
+                        "ran over"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Pored over’ = examined very carefully."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q114",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Use of Phrasal Verbs",
+        "topicOriginal":  "Use of Phrasal Verbs",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  114,
+        "ref":  "CDS 2024-I, Q.114",
+        "directions":  "Fill the blank with the most appropriate phrasal verb.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The boisterous crowd ______ with its merry-making even amidst pouring rain.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "played on",
+                        "flowed on",
+                        "carried on",
+                        "carried out"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Carried on with’ = continued (its merry-making)."
+    },
+    {
+        "id":  "eng-2024-I-other-grammar-q115",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Use of Phrasal Verbs",
+        "topicOriginal":  "Use of Phrasal Verbs",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  115,
+        "ref":  "CDS 2024-I, Q.115",
+        "directions":  "Fill the blank with the most appropriate phrasal verb.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The goons ______ the unsuspecting victims when the latter walked into the dark alley.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "set upon",
+                        "set up",
+                        "set out (!)",
+                        "set down"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Set upon’ = attacked."
+    },
+    {
+        "id":  "eng-2024-II-other-grammar-q116",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Voice",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  116,
+        "ref":  "CDS 2024-II, Q.116",
+        "directions":  "Select the most appropriate voice conversion of the given sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Change to Passive voice: \"Respect your elders.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "You should respect elders",
+                        "Elders are respected",
+                        "Respect the elders",
+                        "Elders should be respected"
+                    ],
+        "answer":  "d",
+        "explanation":  "An imperative becomes passive with ‘should be + past participle’ (or ‘Let … be …’)."
+    },
+    {
+        "id":  "eng-2024-II-other-grammar-q117",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Voice",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  117,
+        "ref":  "CDS 2024-II, Q.117",
+        "directions":  "Select the most appropriate voice conversion of the given sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Change to Passive voice: \"Shut the door.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "The door is to be shut",
+                        "Let the door be shut",
+                        "The door be shut",
+                        "No change"
+                    ],
+        "answer":  "b",
+        "explanation":  "The imperative ‘Shut the door’ → ‘Let the door be shut’."
+    },
+    {
+        "id":  "eng-2024-II-other-grammar-q118",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Voice",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  118,
+        "ref":  "CDS 2024-II, Q.118",
+        "directions":  "Select the most appropriate voice conversion of the given sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Change to Active voice: \"Sujata was advised by her mother to carry an umbrella while stepping out into the rain.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Her mother advised Sujata to carry an umbrella while stepping out into the rain",
+                        "Sujata advised her mother to carry an umbrella while stepping out into the rain",
+                        "The mother advised Sujata to carry an umbrella while stepping out into the rain",
+                        "No change"
+                    ],
+        "answer":  "a",
+        "explanation":  "The agent ‘her mother’ becomes the active subject; the rest is unchanged."
+    },
+    {
+        "id":  "eng-2024-II-other-grammar-q119",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Voice",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  119,
+        "ref":  "CDS 2024-II, Q.119",
+        "directions":  "Select the most appropriate voice conversion of the given sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Change to Active voice: \"He was said to be a good cricketer.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "They said he is a good cricketer",
+                        "They said he was a good cricketer",
+                        "He is a good cricketer",
+                        "No change"
+                    ],
+        "answer":  "b",
+        "explanation":  "The impersonal passive becomes ‘They said (that) he was …’, keeping the past tense."
+    },
+    {
+        "id":  "eng-2024-II-other-grammar-q120",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Voice (Active/Passive)",
+        "topicOriginal":  "Voice",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  120,
+        "ref":  "CDS 2024-II, Q.120",
+        "directions":  "Select the most appropriate voice conversion of the given sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Change to Active voice: \"His hair is being cut by a professional.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "A professional will be cutting his hair",
+                        "A professional is cutting his hair",
+                        "He will be getting a professional haircut",
+                        "No change"
+                    ],
+        "answer":  "b",
+        "explanation":  "Present-continuous passive → present-continuous active with the agent as subject."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q41",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  41,
+        "ref":  "CDS 2025-I, Q.41",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: It has the widest wingspan among all birds, with lengths reaching up to 3.7 metres. The second statement:",
+        "subs":  [
+                     "S1: The snowy albatross is among the largest birds that fly in the world."
+                 ],
+        "options":  [
+                        "contradicts the first",
+                        "contrasts with the first",
+                        "confirms the first",
+                        "reinforces the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "The record wingspan is a concrete fact that backs up S1’s claim of great size."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q42",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  42,
+        "ref":  "CDS 2025-I, Q.42",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: After it is subjected to inquiry and is proven, it becomes a thesis. The second statement:",
+        "subs":  [
+                     "S1: A scientific theory is first proposed as a hypothesis."
+                 ],
+        "options":  [
+                        "proves the first",
+                        "hypothesises the first",
+                        "challenges the burden of proof",
+                        "extends the first"
+                    ],
+        "answer":  "d",
+        "explanation":  "S2 continues the same process (hypothesis → thesis), carrying S1 forward."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q43",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  43,
+        "ref":  "CDS 2025-I, Q.43",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: There was deep public anger triggered by the enormity of the crime. The second statement:",
+        "subs":  [
+                     "S1: The manhunt for the perpetrator of the crime spread across the entire State."
+                 ],
+        "options":  [
+                        "is a precursor to the first",
+                        "follows the first",
+                        "contradicts the first",
+                        "alters the premise of the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "The public anger came first and led to the manhunt, so S2 is the earlier cause."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q44",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  44,
+        "ref":  "CDS 2025-I, Q.44",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Self-awareness is a difficult goal to achieve. The second statement:",
+        "subs":  [
+                     "S1: Awareness about one\u0027s own personality type is very important."
+                 ],
+        "options":  [
+                        "contradicts the first",
+                        "is contrapuntal vis-a-vis the first",
+                        "confirms the first",
+                        "contrasts the first"
+                    ],
+        "answer":  "d",
+        "explanation":  "S2 sets a contrasting point (important, yet hard) without denying S1."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q45",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  45,
+        "ref":  "CDS 2025-I, Q.45",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: India is today poised to become one of the top economies of the world. The second statement:",
+        "subs":  [
+                     "S1: Liberalisation changed the contours of India\u0027s economy."
+                 ],
+        "options":  [
+                        "contradicts the first",
+                        "contrasts with the first",
+                        "correlates to the first",
+                        "coincides with the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "S2 is a related outcome that connects to the change described in S1."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q46",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  46,
+        "ref":  "CDS 2025-I, Q.46",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: All outcomes are based on variables that cannot always be fully understood. The second statement:",
+        "subs":  [
+                     "S1: The final outcome can never be predicted incontrovertibly."
+                 ],
+        "options":  [
+                        "fully reinforces the first",
+                        "reinforces the first to an extent",
+                        "definitely follows the first",
+                        "definitely does not follow the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "S2 gives the exact reason why S1 is true, so it fully supports it."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q47",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  47,
+        "ref":  "CDS 2025-I, Q.47",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: It takes 10,000 hours of practice to become an expert in a field. The second statement:",
+        "subs":  [
+                     "S1: Mastery over any art form requires years of dedication and perseverance."
+                 ],
+        "options":  [
+                        "is not consistent with the first",
+                        "is fully consistent with the first",
+                        "is marginally consistent with the first",
+                        "is the only possible explanation for the first"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘10,000 hours’ is simply a specific version of ‘years of dedication’ — no conflict."
+    },
+    {
+        "id":  "eng-2025-I-other-grammar-q48",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2025,
+        "session":  "I",
+        "paper":  "CDS 2025-I",
+        "qno":  48,
+        "ref":  "CDS 2025-I, Q.48",
+        "directions":  "A pair of statements (S1, S2) is given. Select the most appropriate co-relationship of the second statement to the first. (Q49-50 did not OCR legibly.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: The Constitution of India upholds the collective values of the country\u0027s civilizational ethos. The second statement:",
+        "subs":  [
+                     "S1: The beauty of India\u0027s democracy rests in the greatness of its Constitution."
+                 ],
+        "options":  [
+                        "connects with the mention of Indian democracy in the first",
+                        "provides a reason for the assertion regarding the Constitution in the first",
+                        "contradicts the assertion about democracy in the first",
+                        "has no connection with the first"
+                    ],
+        "answer":  "b",
+        "explanation":  "S2 explains WHY the Constitution is great, justifying S1’s claim."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q91",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  91,
+        "ref":  "CDS 2026-I, Q.91",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Summer in Shimla is quite cold. The second sentence:",
+        "subs":  [
+                     "S1: Summer in Delhi is extremely hot."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "b",
+        "explanation":  "S2 sets a different case (cold Shimla) beside S1 (hot Delhi) without denying it — a contrast."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q92",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  92,
+        "ref":  "CDS 2026-I, Q.92",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Doctors often recommend bananas to maintain healthy levels of potassium. The second sentence:",
+        "subs":  [
+                     "S1: Bananas are a good source of potassium."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "S2 supports/backs up S1 with what doctors do."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q93",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  93,
+        "ref":  "CDS 2026-I, Q.93",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: However, the electricity to charge them may come from fossil fuel sources. The second sentence:",
+        "subs":  [
+                     "S1: Electric cars produce no exhaust emissions."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘However …’ adds a limiting condition to S1 without contradicting it outright."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q94",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  94,
+        "ref":  "CDS 2026-I, Q.94",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: K2 in the Karakoram Range is taller than Mount Everest. The second sentence:",
+        "subs":  [
+                     "S1: Mount Everest is the tallest peak in the world."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "S2 directly denies S1 (both cannot be true)."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q95",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  95,
+        "ref":  "CDS 2026-I, Q.95",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: A little knowledge however is a dangerous thing. The second sentence:",
+        "subs":  [
+                     "S1: True knowledge is true power."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "d",
+        "explanation":  "S2 limits S1 — knowledge is power, but only a little of it is dangerous."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q96",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  96,
+        "ref":  "CDS 2026-I, Q.96",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Haste makes waste. The second sentence:",
+        "subs":  [
+                     "S1: Slow and steady wins the race."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "Both proverbs push the same idea (patience beats hurry), so S2 supports S1."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q97",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  97,
+        "ref":  "CDS 2026-I, Q.97",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Too many cooks spoil the broth. The second sentence:",
+        "subs":  [
+                     "S1: Many hands make light work."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "S2 states the opposite principle — that too many people are harmful."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q98",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  98,
+        "ref":  "CDS 2026-I, Q.98",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: The battery life of the laptop could be better. The second sentence:",
+        "subs":  [
+                     "S1: The new laptop model is very desirable."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "d",
+        "explanation":  "S2 adds a reservation (a drawback) that tempers the praise in S1."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q99",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  99,
+        "ref":  "CDS 2026-I, Q.99",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: A 2022 study links daily walks to reduced depression. The second sentence:",
+        "subs":  [
+                     "S1: Research shows exercise improves mood."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "c",
+        "explanation":  "S2 supplies supporting evidence for S1."
+    },
+    {
+        "id":  "eng-2026-I-other-grammar-q100",
+        "subject":  "Other Grammar",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Sentence Co-relationship",
+        "topicOriginal":  "Sentence Co-relationship",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  100,
+        "ref":  "CDS 2026-I, Q.100",
+        "directions":  "A pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "S2: Belief in the existence of God is universal. The second sentence:",
+        "subs":  [
+                     "S1: Some people doubt that God exists."
+                 ],
+        "options":  [
+                        "contradicts the assertion of the first",
+                        "contrasts the assertion of the first",
+                        "confirms the assertion of the first",
+                        "qualifies the assertion of the first"
+                    ],
+        "answer":  "a",
+        "explanation":  "If belief were truly universal, no one would doubt — S2 denies S1. Spotting Errors (Q111–115)"
+    }
+]

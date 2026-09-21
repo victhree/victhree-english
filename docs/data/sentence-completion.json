@@ -1,0 +1,1595 @@
+[
+    {
+        "id":  "eng-2021-I-sentence-completion-q101",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  101,
+        "ref":  "CDS 2021-I, Q.101",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Sheela has been at the receiving end ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "but she is very honest",
+                        "and she is very honest",
+                        "she had been proud of it",
+                        "she was fine with it"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘At the receiving end’ (suffering) contrasts with ‘but she is very honest’."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q102",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  102,
+        "ref":  "CDS 2021-I, Q.102",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Elam has no other option ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "unless he wins",
+                        "but to accept the challenge",
+                        "though he has won challenge",
+                        "he has to accept the challenge"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘No option but to + infinitive’."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q103",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  103,
+        "ref":  "CDS 2021-I, Q.103",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Although the group has been acquitted ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "they are under the watch of police",
+                        "they are free to do anything",
+                        "there is no suspicion in them",
+                        "they have not been arrested"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Although’ sets up a contrast (acquitted, yet watched)."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q104",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  104,
+        "ref":  "CDS 2021-I, Q.104",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Unless you fulfil the essential qualifications ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you will be called for the interview",
+                        "you shall be selected for the post",
+                        "you will not be called for the interview",
+                        "you can\u0027t be rejected"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Unless’ (= if not) leads to a negative result."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q105",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  105,
+        "ref":  "CDS 2021-I, Q.105",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The company\u0027s bid for the contract is ________ rejected.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "since it filled all the conditions",
+                        "for the company fulfilled the conditions",
+                        "for the company had not been in line with the conditions (!)",
+                        "since the deposit in the account is found less than required"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Since’ gives the reason for rejection (insufficient deposit)."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q106",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  106,
+        "ref":  "CDS 2021-I, Q.106",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I could not sleep ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "because being very tired",
+                        "despite being very tired",
+                        "in spite of being sleepless",
+                        "since being very tired"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Despite + gerund’ = concession (couldn\u0027t sleep though tired)."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q107",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  107,
+        "ref":  "CDS 2021-I, Q.107",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She married him ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "since his good nature",
+                        "because his nature",
+                        "because of his nature",
+                        "in spite his nature"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Because of + noun’."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q108",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  108,
+        "ref":  "CDS 2021-I, Q.108",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I will come to meet you ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "in case you want",
+                        "in case of time",
+                        "because you need",
+                        "although you want"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘In case’ + clause."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q109",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  109,
+        "ref":  "CDS 2021-I, Q.109",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "If you had planned the work well ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you shall have completed it on time",
+                        "you could complete it on time",
+                        "you will complete it on time",
+                        "you could have completed it on time"
+                    ],
+        "answer":  "d",
+        "explanation":  "Third conditional: ‘If + had + V3, … could have + V3’."
+    },
+    {
+        "id":  "eng-2021-I-sentence-completion-q110",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  110,
+        "ref":  "CDS 2021-I, Q.110",
+        "directions":  "Each item has one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "You can use my computer ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "as long as you can\u0027t use any external drive",
+                        "as long as you used any external drive",
+                        "as long as you do not use any external drive",
+                        "as long as you shall use any external drive"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘As long as’ (condition) + present simple. Preposition \u0026 Determiners (Q111–120)"
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q1",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  1,
+        "ref":  "CDS 2021-II, Q.1",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I asked two people the way to the station ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "but neither of them could help me",
+                        "however none of them could show me the way",
+                        "yet they had doubts about the station",
+                        "nevertheless they couldn\u0027t guide me"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Neither of them’ (of the two) + the contrast ‘but’."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q2",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  2,
+        "ref":  "CDS 2021-II, Q.2",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The room was very warm ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "despite the AC being at a moderate temperature (!)",
+                        "though the AC was set to very cold",
+                        "since the AC was not very warm in its temperature setting",
+                        "since the AC was in a very low temperature setting"
+                    ],
+        "answer":  "b",
+        "explanation":  "Concession: the room stayed warm though the AC was cold."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q3",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  3,
+        "ref":  "CDS 2021-II, Q.3",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "You can decide today ________ (stem partly unclear in scan) (!)",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "preferring what you want",
+                        "as you prefer one of the two",
+                        "depending on what you prefer",
+                        "whichever you prefer"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Whichever’ = any one you choose."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q4",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  4,
+        "ref":  "CDS 2021-II, Q.4",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Mohan and I couldn\u0027t get into the house because ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "neither of us had the keys",
+                        "both of us do not have the keys",
+                        "either of us did not have the keys",
+                        "neither of us did have the keys"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Neither of us’ + affirmative verb ‘had’."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q5",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  5,
+        "ref":  "CDS 2021-II, Q.5",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There are many good hotels, you can choose to stay in ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "many of them",
+                        "any one of them",
+                        "either of them",
+                        "all of them"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Any one of them’ = any single hotel out of many."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q6",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  6,
+        "ref":  "CDS 2021-II, Q.6",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The bus service is very good; there is a bus ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "after ten minutes",
+                        "in ten minutes",
+                        "before ten minutes",
+                        "every ten minutes"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Every ten minutes’ = at that frequency."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q7",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  7,
+        "ref":  "CDS 2021-II, Q.7",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We live near a busy airport; the planes fly ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "near our house",
+                        "by our house",
+                        "over our house",
+                        "around our house"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Over’ = above."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q8",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  8,
+        "ref":  "CDS 2021-II, Q.8",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Dan was very quiet. He didn\u0027t say a word ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "all the evening",
+                        "in the evening (!)",
+                        "for the evening (!)",
+                        "entire evening"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘All the evening’ = for the whole evening."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q9",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  9,
+        "ref":  "CDS 2021-II, Q.9",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I don\u0027t like stories ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "which can have unhappy endings",
+                        "which had sad endings",
+                        "that have unhappy endings",
+                        "which are unhappy endings"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘That + present simple’ (defining, general)."
+    },
+    {
+        "id":  "eng-2021-II-sentence-completion-q10",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2021,
+        "session":  "II",
+        "paper":  "CDS 2021-II",
+        "qno":  10,
+        "ref":  "CDS 2021-II, Q.10",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Not everything ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "that happened was my fault",
+                        "which happen was my fault",
+                        "what happened was my fault",
+                        "whatever happened was my fault"
+                    ],
+        "answer":  "a",
+        "explanation":  "After ‘everything’, use ‘that’ (not what/which). Spotting Errors (Q41–50) — error and correction identified"
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q81",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  81,
+        "ref":  "CDS 2022-I, Q.81",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I stopped seeing her ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "for she moved to the city.",
+                        "as long as she moved to the city.",
+                        "no sooner than she moved to the city.",
+                        "because she moved to the city."
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Because’ gives the reason."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q82",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  82,
+        "ref":  "CDS 2022-I, Q.82",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He led the caravan ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "whenever he wanted to go.",
+                        "whichever he wanted to go.",
+                        "wherever he wanted to go.",
+                        "whomsoever he wanted to go."
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Wherever’ = to any place."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q83",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  83,
+        "ref":  "CDS 2022-I, Q.83",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Unless you work harder ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you will succumb.",
+                        "you will pass.",
+                        "you will fail.",
+                        "you will be promoted."
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Unless’ (= if not) leads to the negative result ‘fail’."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q84",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  84,
+        "ref":  "CDS 2022-I, Q.84",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Had I the wings of a bird ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "I would fly away.",
+                        "I should fly away.",
+                        "I will have flown away.",
+                        "I could have flown away."
+                    ],
+        "answer":  "a",
+        "explanation":  "Hypothetical: ‘Had I …, I would …’."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q85",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  85,
+        "ref":  "CDS 2022-I, Q.85",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He would be happier ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "was he more honest.",
+                        "had he more honest.",
+                        "should he be more honest.",
+                        "were he more honest."
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Were he …’ = if he were (inverted second conditional)."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q86",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  86,
+        "ref":  "CDS 2022-I, Q.86",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "No sooner did I arrive at the airport ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "then the flight took off.",
+                        "than the flight took off.",
+                        "did the flight take off.",
+                        "than the flight shall take off."
+                    ],
+        "answer":  "b",
+        "explanation":  "‘No sooner … than’."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q87",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  87,
+        "ref":  "CDS 2022-I, Q.87",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I couldn\u0027t be angry with him ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "had I tried.",
+                        "should I try.",
+                        "if I tried.",
+                        "even I tried."
+                    ],
+        "answer":  "c",
+        "explanation":  "‘If I tried’ = even if I tried (hypothetical)."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q88",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  88,
+        "ref":  "CDS 2022-I, Q.88",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He knows only ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "so much as I have told him.",
+                        "whichever I have told him.",
+                        "so far as I have told him.",
+                        "what I have told him."
+                    ],
+        "answer":  "d",
+        "explanation":  "‘What’ = the thing that (relative pronoun)."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q89",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  89,
+        "ref":  "CDS 2022-I, Q.89",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "As you have made your bed ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you must learn to lie.",
+                        "you must adjust with the situation.",
+                        "so you must lie on it.",
+                        "so that you can lie on it."
+                    ],
+        "answer":  "c",
+        "explanation":  "Proverb with the correlative ‘as … so’."
+    },
+    {
+        "id":  "eng-2022-I-sentence-completion-q90",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  90,
+        "ref":  "CDS 2022-I, Q.90",
+        "directions":  "Each item features one part of the sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The younger man has more money ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "then brains.",
+                        "of brains.",
+                        "than brains.",
+                        "for brains."
+                    ],
+        "answer":  "c",
+        "explanation":  "Comparative ‘more … than’. Prepositions \u0026 Determiners (Q91–100)"
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q21",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  21,
+        "ref":  "CDS 2022-II, Q.21",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It is not that I do not take a decision, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "I decide not to take a decision.",
+                        "I do not decide a decision.",
+                        "I had not taken a decision.",
+                        "I decide I would not have taken a decision."
+                    ],
+        "answer":  "a",
+        "explanation":  "The contrast is between failing to decide and deliberately choosing not to decide."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q22",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  22,
+        "ref":  "CDS 2022-II, Q.22",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "If I were in your position, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "I had been accepting this compensation.",
+                        "I would not accept this compensation.",
+                        "I would not have been accepting this compensation.",
+                        "should I not accept the compensation."
+                    ],
+        "answer":  "b",
+        "explanation":  "Second conditional: ‘If I were …, I would …’."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q23",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  23,
+        "ref":  "CDS 2022-II, Q.23",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Having written many novels and short stories, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "she cannot be feeling about life.",
+                        "she is to feel life too big to understand.",
+                        "she should not have being feeling for life.",
+                        "she feels life is too vast to understand."
+                    ],
+        "answer":  "d",
+        "explanation":  "The participle phrase must attach to ‘she’, and the clause must make sense."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q24",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  24,
+        "ref":  "CDS 2022-II, Q.24",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There are many career options, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you can choose any of them.",
+                        "you can choose many of them.",
+                        "you should choose none of them.",
+                        "you would choose one of them."
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Any of them’ = any one out of the many options."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q25",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  25,
+        "ref":  "CDS 2022-II, Q.25",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "If you had prepared well, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you would have been fared well.",
+                        "you will have fared well.",
+                        "you must have to fare well.",
+                        "you would have fared well."
+                    ],
+        "answer":  "d",
+        "explanation":  "Third conditional: ‘If + had + V3, … would have + V3’."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q26",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  26,
+        "ref":  "CDS 2022-II, Q.26",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Where there is a will, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "there should be way.",
+                        "there is a way.",
+                        "there would have been a way.",
+                        "there may have been a way."
+                    ],
+        "answer":  "b",
+        "explanation":  "Proverb in the present simple."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q27",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  27,
+        "ref":  "CDS 2022-II, Q.27",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "\"It is getting dark, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "must I turn on the lights?\"",
+                        "should I be turning the lights?\"",
+                        "may I be turning on the lights?\"",
+                        "can I turn on the lights?\""
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Can I …?’ asks permission/offers; ‘turn on’ is the correct phrasal verb."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q28",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  28,
+        "ref":  "CDS 2022-II, Q.28",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Once I met a traveller ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "who said he had been to an ancient place.",
+                        "he said he had been to an ancient place.",
+                        "who can be said he had been to an ancient place.",
+                        "he said an ancient place had been to him."
+                    ],
+        "answer":  "a",
+        "explanation":  "Relative pronoun ‘who’ + reported speech ‘had been’."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q29",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  29,
+        "ref":  "CDS 2022-II, Q.29",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Man is the greatest truth of all, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "nothing can be with him.",
+                        "there is nothing beyond him.",
+                        "there cannot be nothing to him.",
+                        "there is nothing truth about him."
+                    ],
+        "answer":  "b",
+        "explanation":  "Logical completion without a double negative."
+    },
+    {
+        "id":  "eng-2022-II-sentence-completion-q30",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentences",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  30,
+        "ref":  "CDS 2022-II, Q.30",
+        "directions":  "Each item has one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "If your life is circumscribed by habits alone, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "you were merely an imitating machine.",
+                        "you are merely an imitative machine.",
+                        "you were merely an imitative machine.",
+                        "you can be living in an imitative world."
+                    ],
+        "answer":  "b",
+        "explanation":  "First/zero conditional (if + present, present); ‘imitative’ (adjective). Prepositions \u0026 Determiners (Q51–60)"
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q101",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  101,
+        "ref":  "CDS 2023-I, Q.101",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "They were informed that the inaugural version of the scheme ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "has three parts (!)",
+                        "(option unclear in scan) (!)",
+                        "have three parts",
+                        "had has three parts"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Version’ is singular → singular verb ‘has’."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q102",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  102,
+        "ref":  "CDS 2023-I, Q.102",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "What would you do ________?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "if you would won a lot of money?",
+                        "if you have won a lot of money?",
+                        "if you will win a lot of money?",
+                        "if you won a lot of money?"
+                    ],
+        "answer":  "d",
+        "explanation":  "Second conditional: would + if + past simple (‘won’)."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q104",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  104,
+        "ref":  "CDS 2023-I, Q.104",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Let me know ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "if you have any further news.",
+                        "if you had any further news.",
+                        "if you has any further news.",
+                        "if you had have any further news."
+                    ],
+        "answer":  "a",
+        "explanation":  "Real condition: ‘if’ + present simple ‘have’."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q105",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  105,
+        "ref":  "CDS 2023-I, Q.105",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We stayed ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "at the cheap hotel in the town.",
+                        "at the cheaper hotel in the town.",
+                        "at the cheapest hotel in the town.",
+                        "at a cheapest hotel in the town."
+                    ],
+        "answer":  "c",
+        "explanation":  "Superlative ‘the cheapest’ with ‘in the town’."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q106",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  106,
+        "ref":  "CDS 2023-I, Q.106",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Julia got married ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "as she was 22.",
+                        "when she was 22.",
+                        "because she was 22.",
+                        "since she was 22."
+                    ],
+        "answer":  "b",
+        "explanation":  "‘When’ marks the time of the event."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q107",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  107,
+        "ref":  "CDS 2023-I, Q.107",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "What time ________?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "does this train get at London?",
+                        "does this train get in London?",
+                        "does this train get into London?",
+                        "does this train get to London?"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Get into (a place)’ = arrive at it."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q108",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  108,
+        "ref":  "CDS 2023-I, Q.108",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "How are you ________?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "getting on in your new job?",
+                        "getting of in your new job?",
+                        "getting along your new job?",
+                        "getting off in your new job?"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Get on (in a job)’ = progress/manage."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q109",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  109,
+        "ref":  "CDS 2023-I, Q.109",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I am trying to ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "shut down on coffee.",
+                        "cut down on coffee.",
+                        "break down on coffee.",
+                        "turn down on coffee."
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Cut down on’ = reduce."
+    },
+    {
+        "id":  "eng-2023-I-sentence-completion-q110",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  110,
+        "ref":  "CDS 2023-I, Q.110",
+        "directions":  "Each item features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Many accidents ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "cause careless driving.",
+                        "have caused careless driving.",
+                        "are caused by careless driving.",
+                        "will cause careless driving."
+                    ],
+        "answer":  "c",
+        "explanation":  "Passive voice: accidents are caused by driving."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q101",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  101,
+        "ref":  "CDS 2023-II, Q.101",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is diligent; therefore ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "he will not succeed",
+                        "he can\u0027t succeed",
+                        "he will succeed",
+                        "he succeed"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Therefore’ signals a positive consequence of being diligent."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q102",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  102,
+        "ref":  "CDS 2023-II, Q.102",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "A bomb went off in the city centre, but fortunately ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "only few hurt",
+                        "somebody was hurt",
+                        "nobody was hurt",
+                        "everybody was hurt"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Fortunately’ signals a lucky (positive) outcome."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q103",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  103,
+        "ref":  "CDS 2023-II, Q.103",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Each of the scholars ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "have done well",
+                        "has done well",
+                        "shall done well",
+                        "will done well"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Each of + plural’ takes a singular verb ‘has’."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q104",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  104,
+        "ref":  "CDS 2023-II, Q.104",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He asked whether either of the brothers ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "were at home (!)",
+                        "are at home",
+                        "was at home",
+                        "have come home"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Either of’ takes a singular verb; reported speech keeps the past → ‘was’."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q105",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  105,
+        "ref":  "CDS 2023-II, Q.105",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "One cannot be too careful of ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "his good name (!)",
+                        "their good name",
+                        "her good name (!)",
+                        "one\u0027s good name"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘One’ must be followed by ‘one\u0027s’ (not his/her/their)."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q106",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  106,
+        "ref":  "CDS 2023-II, Q.106",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The applicant is the native of this country, so he has the right ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "to have vote",
+                        "to vote",
+                        "of vote",
+                        "at vote"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘The right to + base verb’ = right to vote."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q107",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  107,
+        "ref":  "CDS 2023-II, Q.107",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "No sooner had he returned ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "than he was off again",
+                        "but he was off again",
+                        "therefore went away",
+                        "thence went away"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘No sooner … than’ is the fixed correlative pair."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q108",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  108,
+        "ref":  "CDS 2023-II, Q.108",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Fortunately the news ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "wasn\u0027t as bad as we expected",
+                        "weren\u0027t as bad as we expected",
+                        "couldn\u0027t as bad as we expected",
+                        "happened with as bad as we expected"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘News’ is singular → ‘wasn\u0027t’ (not ‘weren\u0027t’)."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q109",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  109,
+        "ref":  "CDS 2023-II, Q.109",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "When I was on holiday, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "my whole luggage were stolen",
+                        "my part luggage was stolen",
+                        "all my luggage was stolen",
+                        "my some luggage was stolen"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Luggage’ is uncountable → singular ‘was’; ‘all my luggage’."
+    },
+    {
+        "id":  "eng-2023-II-sentence-completion-q110",
+        "subject":  "Sentence Completion",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "",
+        "topicOriginal":  "Completion of Sentence",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  110,
+        "ref":  "CDS 2023-II, Q.110",
+        "directions":  "Each sentence is incomplete and is followed by four options. Select one option to complete the sentence.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I got up very early, ________.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "but Jack got up much before",
+                        "but Jack got up even before",
+                        "but Jack got up earlier to me",
+                        "but Jack got up even earlier"
+                    ],
+        "answer":  "d",
+        "explanation":  "Comparative ‘earlier’ is correct; ‘even earlier’ intensifies it. (‘earlier to me’ is wrong.)"
+    }
+]

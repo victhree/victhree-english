@@ -1,0 +1,2810 @@
+[
+    {
+        "id":  "eng-2020-I-parts-of-speech-q81",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  81,
+        "ref":  "CDS 2020-I, Q.81",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He has been working in the Department of Foreign Affairs since 2002.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Adjective",
+                        "Intensifier",
+                        "Noun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Foreign’ describes ‘Affairs’ = adjective."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q82",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  82,
+        "ref":  "CDS 2020-I, Q.82",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The man in dark blue is the one who made us win the match.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Relative clause",
+                        "Interrogative pronoun",
+                        "Relative pronoun",
+                        "Affirmative"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Who’ refers back to ‘the one’ and links the clause = relative pronoun."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q83",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  83,
+        "ref":  "CDS 2020-I, Q.83",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The most beautiful actor of the industry was awarded today.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Numeral",
+                        "Adverb",
+                        "Superlative (!)"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Most beautiful’ is the superlative degree of the adjective."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q84",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  84,
+        "ref":  "CDS 2020-I, Q.84",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "\"What is the latest news?\" asked the Captain.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Relative pronoun",
+                        "Adjective",
+                        "Adverb",
+                        "Adjectival clause"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Latest’ describes ‘news’ = adjective (superlative of ‘late’)."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q85",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  85,
+        "ref":  "CDS 2020-I, Q.85",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Noticing the change in the behaviour of the officer, the cadets returned to their position.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Present continuous",
+                        "Noun phrase",
+                        "Noun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Noticing …’ is a present-participle phrase."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q86",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  86,
+        "ref":  "CDS 2020-I, Q.86",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "When he reached the department, the officials had left for the meeting.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Past perfect verb",
+                        "Past tense",
+                        "Dependent clause",
+                        "Independent clause"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Had left’ is the past perfect tense (the earlier of two past actions)."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q87",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  87,
+        "ref":  "CDS 2020-I, Q.87",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He has offered her another chance.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Intransitive verb",
+                        "Past tense",
+                        "Perfect tense",
+                        "Transitive verb"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Offered’ takes objects (her / another chance) = transitive verb."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q88",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  88,
+        "ref":  "CDS 2020-I, Q.88",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The building is very ancient.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Transitive verb",
+                        "Intransitive verb",
+                        "Phrasal verb",
+                        "Auxiliary verb"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Is’ here is a linking (copular) verb — it takes no object."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q89",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  89,
+        "ref":  "CDS 2020-I, Q.89",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Hurrah! What a scintillating beauty the landscape is!",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Conjunction",
+                        "Adjective",
+                        "Adverb",
+                        "Interjection"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Hurrah!’ expresses joy = interjection."
+    },
+    {
+        "id":  "eng-2020-I-parts-of-speech-q90",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "I",
+        "paper":  "CDS 2020-I",
+        "qno":  90,
+        "ref":  "CDS 2020-I, Q.90",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Ravi was declared as the winner in the tie because he had hit the most number of fours and sixes.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Conjunction",
+                        "Interjection",
+                        "Adverb",
+                        "Cause"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Because’ joins the reason-clause = subordinating conjunction. Spelling — correctly spelt word (Q91–100)"
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q81",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  81,
+        "ref":  "CDS 2020-II, Q.81",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "All the pilgrims rested for a while under the banyan tree.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Place value",
+                        "Preposition",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Under’ shows position relative to ‘the tree’ = preposition."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q82",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  82,
+        "ref":  "CDS 2020-II, Q.82",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The wonderful statue of the leader welcomes all people to city.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Object",
+                        "Adjective",
+                        "Noun phrase",
+                        "Noun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Wonderful’ describes ‘statue’ = adjective."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q83",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  83,
+        "ref":  "CDS 2020-II, Q.83",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This is his pen.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Possessive pronoun",
+                        "Possessive adjective",
+                        "Adverb",
+                        "Verb"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘His’ comes before the noun ‘pen’ = possessive adjective."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q84",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  84,
+        "ref":  "CDS 2020-II, Q.84",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "When people found that the jewel was in the records of Rahim, they gave it to him.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Nominative",
+                        "Noun",
+                        "Adverb"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘They’ replaces a noun = personal pronoun."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q85",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  85,
+        "ref":  "CDS 2020-II, Q.85",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It is eleven O\u0027clock now and all of us should retire to bed.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Personal pronoun",
+                        "Relative pronoun",
+                        "Impersonal pronoun",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘It’ here does not refer to a thing; it is the impersonal/introductory ‘it’ (for time)."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q86",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  86,
+        "ref":  "CDS 2020-II, Q.86",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The flower is very beautiful.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Preposition",
+                        "Conjunction"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Beautiful’ describes ‘flower’ = adjective."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q87",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  87,
+        "ref":  "CDS 2020-II, Q.87",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This boy is stronger than Ramesh.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Adjective",
+                        "Article",
+                        "Adverb"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Stronger’ is the comparative form of the adjective ‘strong’."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q88",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  88,
+        "ref":  "CDS 2020-II, Q.88",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I hurt myself.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Demonstrative preposition",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Myself’ = reflexive pronoun."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q89",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  89,
+        "ref":  "CDS 2020-II, Q.89",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The ants fought the wasps.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Intransitive verb",
+                        "Transitive verb",
+                        "Demonstrative verb",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Fought’ takes the object ‘the wasps’ = transitive verb."
+    },
+    {
+        "id":  "eng-2020-II-parts-of-speech-q90",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2020,
+        "session":  "II",
+        "paper":  "CDS 2020-II",
+        "qno":  90,
+        "ref":  "CDS 2020-II, Q.90",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I can hardly believe it.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Preposition",
+                        "Adverb",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Hardly’ (= scarcely) modifies the verb = adverb."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q91",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  91,
+        "ref":  "CDS 2021-I, Q.91",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The preacher said, \"No one is above the all powerful.\"",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Place value",
+                        "Preposition",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Above’ shows the relation to ‘the all powerful’ = preposition."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q92",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  92,
+        "ref":  "CDS 2021-I, Q.92",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The most beautiful seven monkeys of the landlord were taken for a stroll.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Object",
+                        "Adjective",
+                        "Noun phrase",
+                        "Noun"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘The most beautiful seven monkeys’ works as one noun unit = noun phrase."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q94",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  94,
+        "ref":  "CDS 2021-I, Q.94",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The man who is in the green shirt is the chief of the day.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Relative noun",
+                        "Demonstrative pronouns",
+                        "Assertive noun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Who’ is a relative pronoun (no exact ‘relative pronoun’ option, so ‘Pronoun’)."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q95",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  95,
+        "ref":  "CDS 2021-I, Q.95",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He has been living in the jungle for long and he knows all the animals here.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Subordinating conjunction",
+                        "Coordinating conjunction",
+                        "Preposition",
+                        "Personal pronoun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘And’ joins two independent clauses = coordinating conjunction."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q96",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  96,
+        "ref":  "CDS 2021-I, Q.96",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "They have been driving since early morning.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Noun",
+                        "Comparison"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Early’ describes ‘morning’ = adjective."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q97",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  97,
+        "ref":  "CDS 2021-I, Q.97",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This time we woke up to the virus related diseases.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Demonstrative",
+                        "Article",
+                        "Adverb",
+                        "Noun phrase"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘This’ points to ‘time’ = demonstrative adjective."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q98",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  98,
+        "ref":  "CDS 2021-I, Q.98",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Love your neighbour as thyself.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Preposition",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Thyself’ = a (reflexive) pronoun."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q99",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  99,
+        "ref":  "CDS 2021-I, Q.99",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Ravi won the match with a huge margin.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Intransitive verb",
+                        "Transitive verb",
+                        "Demonstrative verb",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Won’ takes the object ‘the match’ = transitive verb."
+    },
+    {
+        "id":  "eng-2021-I-parts-of-speech-q100",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2021,
+        "session":  "I",
+        "paper":  "CDS 2021-I",
+        "qno":  100,
+        "ref":  "CDS 2021-I, Q.100",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word is. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There was an exultation in the group.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Verb (!)",
+                        "Adjectival Noun",
+                        "Noun"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Exultation’ names a feeling = abstract noun. Completion of Sentence (Q101–110)"
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q111",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  111,
+        "ref":  "CDS 2022-I, Q.111",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The conclusions that they came to are highly questionable.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun (!)",
+                        "Adjective (!)",
+                        "Adverb",
+                        "Gerund"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Highly’ modifies the adjective ‘questionable’ = adverb of degree."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q112",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  112,
+        "ref":  "CDS 2022-I, Q.112",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "This year marks the quincentenary of Columbus\u0027s voyage to America.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Article"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Quincentenary’ (a 500th anniversary) names a thing = noun."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q113",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  113,
+        "ref":  "CDS 2022-I, Q.113",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I still cherish the memories of those far-off days.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Conjunction",
+                        "Adjective",
+                        "Adverb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Far-off’ describes ‘days’ = compound adjective."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q114",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  114,
+        "ref":  "CDS 2022-I, Q.114",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I don\u0027t think I\u0027ll come on Saturday. I have a lot of work to do. Besides, I don\u0027t really like parties.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Preposition",
+                        "Conjunction"
+                    ],
+        "answer":  "b",
+        "explanation":  "Here ‘Besides’ = moreover, linking sentences = conjunctive adverb."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q115",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  115,
+        "ref":  "CDS 2022-I, Q.115",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The bottomline is that we have to make a decision.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Adverb",
+                        "Adjective"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Bottomline’ names a thing = noun."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q116",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  116,
+        "ref":  "CDS 2022-I, Q.116",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Try to knock that vase over.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Conjunction",
+                        "Adjective",
+                        "Adverb"
+                    ],
+        "answer":  "d",
+        "explanation":  "In ‘knock over’, ‘over’ has no object and modifies the verb = adverb (particle)."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q117",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  117,
+        "ref":  "CDS 2022-I, Q.117",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I\u0027d like an ice cream. Are you having one too?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Countable noun (!)",
+                        "Adjective (!)"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘One’ stands in for ‘ice cream’ = pronoun."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q118",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  118,
+        "ref":  "CDS 2022-I, Q.118",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My parents lent me the money. Otherwise, I could not have afforded the trip.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Conjunction",
+                        "Participle"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Otherwise’ links the sentences (= if not) = conjunctive adverb."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q119",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  119,
+        "ref":  "CDS 2022-I, Q.119",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She wrote me an anguished letter from her prison cell.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun (!)",
+                        "Verb",
+                        "Adjective",
+                        "Adverb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Anguished’ describes ‘letter’ = participial adjective."
+    },
+    {
+        "id":  "eng-2022-I-parts-of-speech-q120",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "I",
+        "paper":  "CDS 2022-I",
+        "qno":  120,
+        "ref":  "CDS 2022-I, Q.120",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There is a visitor for you.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Relative Pronoun",
+                        "Definite Article",
+                        "Indefinite Article",
+                        "Adverb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘A’ before ‘visitor’ = indefinite article."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q111",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  111,
+        "ref":  "CDS 2022-II, Q.111",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He headed the Indian freedom struggle which paved the way for non-violent struggle for other countries in the 20th century.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Relative pronoun",
+                        "Adjective",
+                        "Interrogative",
+                        "Assertive"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Which’ refers back to ‘struggle’ and introduces a clause = relative pronoun."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q112",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  112,
+        "ref":  "CDS 2022-II, Q.112",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Where there is peace for some time, there will be prosperity.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Interrogative",
+                        "Adverb",
+                        "Adjective",
+                        "Relative pronoun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Where’ here introduces a clause of place = relative adverb (classed as adverb)."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q113",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  113,
+        "ref":  "CDS 2022-II, Q.113",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Alas! We have been defeated.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Connector",
+                        "Interjection",
+                        "Interrogative"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Alas!’ expresses sorrow = interjection."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q114",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  114,
+        "ref":  "CDS 2022-II, Q.114",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "A zero is a zero always.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Compound noun",
+                        "Pronoun",
+                        "Adjective"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Zero’ names a thing = common noun."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q115",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  115,
+        "ref":  "CDS 2022-II, Q.115",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "May you be blessed with all good things of life.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adverb",
+                        "Noun",
+                        "Pronoun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘May’ is a modal auxiliary verb (here expressing a wish)."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q116",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  116,
+        "ref":  "CDS 2022-II, Q.116",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The lake is one of the more beautiful ones in the country.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Quantifier",
+                        "Noun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Beautiful’ describes ‘ones’ = adjective."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q117",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  117,
+        "ref":  "CDS 2022-II, Q.117",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Honesty is the best policy.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Countable noun",
+                        "Pronoun",
+                        "Common noun",
+                        "Uncountable noun"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Honesty’ is an abstract quality that cannot be counted = uncountable noun."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q118",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  118,
+        "ref":  "CDS 2022-II, Q.118",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There is many a slip between the cup and the lip.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Adverb",
+                        "Connector",
+                        "Conjunction"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Between’ shows the relation ‘the cup and the lip’ = preposition."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q119",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  119,
+        "ref":  "CDS 2022-II, Q.119",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Ravi and Megha reached first, but Guha and Saavi finished third.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Interjection",
+                        "Conjunction",
+                        "Connector",
+                        "Pronoun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘But’ joins two clauses = coordinating conjunction."
+    },
+    {
+        "id":  "eng-2022-II-parts-of-speech-q120",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2022,
+        "session":  "II",
+        "paper":  "CDS 2022-II",
+        "qno":  120,
+        "ref":  "CDS 2022-II, Q.120",
+        "directions":  "Each sentence has a word or phrase underlined. Find which part of speech the underlined word belongs to. NOTE: the scan does not mark the underlined word, so the sentence and option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is the most sought after teacher in the school.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Determiner",
+                        "Adverb",
+                        "Adjective",
+                        "Interjection"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Most sought after’ describes ‘teacher’ = (compound) adjective."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q1",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  1,
+        "ref":  "CDS 2023-I, Q.1",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I like that boy.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Demonstrative Pronoun",
+                        "Participle (!)",
+                        "Determiner"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘That’ comes before the noun ‘boy’ and points it out = demonstrative determiner (adjective)."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q2",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  2,
+        "ref":  "CDS 2023-I, Q.2",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Without health there is no happiness.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Adjective",
+                        "Adverb"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Health’ names an idea/quality = abstract noun."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q3",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  3,
+        "ref":  "CDS 2023-I, Q.3",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "You have no sense.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Verb",
+                        "Adverb",
+                        "Gerund"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Sense’ names a thing = noun."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q4",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  4,
+        "ref":  "CDS 2023-I, Q.4",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "None of these cars is in use.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Reflexive Pronoun",
+                        "Demonstrative Pronoun",
+                        "Distributive Pronoun",
+                        "Indefinite Pronoun"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘None’ stands for ‘not one’ = indefinite pronoun."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q5",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  5,
+        "ref":  "CDS 2023-I, Q.5",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We shall now begin to work.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Adjective",
+                        "Conjunction",
+                        "Pronoun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Now’ tells when = adverb of time."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q6",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  6,
+        "ref":  "CDS 2023-I, Q.6",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Owing to his ill health, he retired from business.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Conjunction",
+                        "Preposition",
+                        "Participle",
+                        "Determiner"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Owing to’ = because of; it works as a compound preposition before a noun."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q7",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  7,
+        "ref":  "CDS 2023-I, Q.7",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My sister is just sixteen and therefore not eligible to vote.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Gerund",
+                        "Adverb",
+                        "Adjective",
+                        "Conjunction"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Therefore’ links ideas and modifies the clause = conjunctive adverb."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q8",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  8,
+        "ref":  "CDS 2023-I, Q.8",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "They tried to find fault with us.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Determiner",
+                        "Infinitive",
+                        "Preposition"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘To find’ = to + base verb = infinitive."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q9",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  9,
+        "ref":  "CDS 2023-I, Q.9",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Which way shall we go?",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Gerund",
+                        "Conjunction",
+                        "Adjective"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Which’ comes before the noun ‘way’ = interrogative adjective."
+    },
+    {
+        "id":  "eng-2023-I-parts-of-speech-q10",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2023,
+        "session":  "I",
+        "paper":  "CDS 2023-I",
+        "qno":  10,
+        "ref":  "CDS 2023-I, Q.10",
+        "directions":  "Each sentence has a word/words underlined. Find which word class the underlined word/words belong to. NOTE: the scan does not mark the underlined word, so the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Alas! He is dead.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Determiner",
+                        "Conjunction",
+                        "Preposition",
+                        "Interjection"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Alas!’ expresses sorrow = interjection. Fill in the Blanks (Q11–20)"
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q1",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  1,
+        "ref":  "CDS 2023-II, Q.1",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The artist pranced around the stage singing enthusiastically.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Enthusiastically’ modifies the verb (how she sang) = adverb of manner."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q2",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  2,
+        "ref":  "CDS 2023-II, Q.2",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Put the fork and knife in the cutlery box.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Verb",
+                        "Conjunction",
+                        "Noun (!)"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘In’ shows the position relative to ‘the box’ = preposition."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q3",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  3,
+        "ref":  "CDS 2023-II, Q.3",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She came slowly up to the main door.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Verb",
+                        "Pronoun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Slowly’ tells how she came = adverb of manner."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q4",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  4,
+        "ref":  "CDS 2023-II, Q.4",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Oh no! I am getting late for the function.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Article",
+                        "Noun",
+                        "Interjection"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Oh no!’ expresses sudden feeling = interjection."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q5",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  5,
+        "ref":  "CDS 2023-II, Q.5",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "They are all going to attend the function.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adverb",
+                        "Pronoun",
+                        "Conjunction"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘They’ stands in for a noun = personal pronoun."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q6",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  6,
+        "ref":  "CDS 2023-II, Q.6",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The sun shone through the dull grey clouds.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adverb",
+                        "Verb",
+                        "Adjective"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Dull/grey’ describe the noun ‘clouds’ = adjectives."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q7",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  7,
+        "ref":  "CDS 2023-II, Q.7",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The Principal is presiding over the meeting.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Noun",
+                        "Adjective",
+                        "Preposition"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Presiding’ is the action = verb (present continuous)."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q8",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  8,
+        "ref":  "CDS 2023-II, Q.8",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Cash machines permit people to withdraw money at any time.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Noun",
+                        "Pronoun",
+                        "Adverb"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Permit’ is the action of the subject = verb."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q9",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  9,
+        "ref":  "CDS 2023-II, Q.9",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The novel is loosely based on his childhood in England.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adverb (!)",
+                        "Noun",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Loosely’ modifies ‘based’ (how) = adverb."
+    },
+    {
+        "id":  "eng-2023-II-parts-of-speech-q10",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Parts of Speech",
+        "topicOriginal":  "Parts of Speech",
+        "year":  2023,
+        "session":  "II",
+        "paper":  "CDS 2023-II",
+        "qno":  10,
+        "ref":  "CDS 2023-II, Q.10",
+        "directions":  "Match the underlined word in each of the following sentences with the correct part of speech. NOTE: the scan does not mark which word is underlined, so only the sentence and the four option labels are reproduced.",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Since children have so much homework to do their playtime is very limited.",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adjective",
+                        "Pronoun",
+                        "Noun"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Homework’ names a thing = (uncountable) noun. Fill in the Blanks (Q11–20)"
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q41",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  41,
+        "ref":  "CDS 2024-I, Q.41",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She sings much better than I do. [underlined: better]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Gerund",
+                        "Conjunction"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Better’ modifies the verb ‘sings’ (how she sings) = adverb, the comparative of ‘well’."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q42",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  42,
+        "ref":  "CDS 2024-I, Q.42",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The story was in all the dailies. [underlined: dailies]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Determiner"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Dailies’ = daily newspapers, a thing = noun (an adjective used as a noun)."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q43",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  43,
+        "ref":  "CDS 2024-I, Q.43",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Smoking is injurious to health. [underlined: Smoking]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Infinitive",
+                        "Gerund",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Smoking’ is an -ing form used as the subject = gerund."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q44",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  44,
+        "ref":  "CDS 2024-I, Q.44",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "What made you choose the one rather than the other? [underlined: one]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Verb",
+                        "Number",
+                        "Adverb"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘The one’ stands in for a noun already known = pronoun."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q45",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  45,
+        "ref":  "CDS 2024-I, Q.45",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "There is still some water in the bottle. [underlined: some]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Conjunction",
+                        "Determiner",
+                        "Verb"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Some’ quantifies the noun ‘water’ = determiner (quantifier)."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q46",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  46,
+        "ref":  "CDS 2024-I, Q.46",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Hurray! We have won the match. [underlined: Hurray]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Interjection",
+                        "Conjunction",
+                        "Adjective",
+                        "Interrogative"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Hurray!’ expresses sudden feeling and stands apart = interjection."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q47",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  47,
+        "ref":  "CDS 2024-I, Q.47",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Having finished her work, Sharmila left home at 8:00 PM. [underlined: Having finished]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Auxiliary verb",
+                        "Adverb",
+                        "Conjunction"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Having finished’ is a perfect participle opening a participial phrase."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q48",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  48,
+        "ref":  "CDS 2024-I, Q.48",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My teacher always moves around in her class while teaching. [underlined: around]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adverb",
+                        "Conjunction",
+                        "Noun"
+                    ],
+        "answer":  "b",
+        "explanation":  "Here ‘around’ has no object and modifies ‘moves’ = adverb."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q49",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  49,
+        "ref":  "CDS 2024-I, Q.49",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The cantankerous men of the town roar around the marketplace. [underlined: cantankerous]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adverb",
+                        "Determiner",
+                        "Adjective"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Cantankerous’ describes the noun ‘men’ = adjective."
+    },
+    {
+        "id":  "eng-2024-I-parts-of-speech-q50",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "I",
+        "paper":  "CDS 2024-I",
+        "qno":  50,
+        "ref":  "CDS 2024-I, Q.50",
+        "directions":  "Identify the word class of the underlined word. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "India is revered as the fountainhead of democracy in the world today. [underlined: fountainhead]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Interjection"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Fountainhead’ (source/origin) names a thing = noun. Prepositions \u0026 Determiners (Q61–70)"
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q41",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  41,
+        "ref":  "CDS 2024-II, Q.41",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Consequently, this poses a threat to agriculture and human health. [underlined: Consequently]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Verb",
+                        "Noun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Consequently’ links ideas and modifies the whole clause = conjunctive adverb."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q42",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  42,
+        "ref":  "CDS 2024-II, Q.42",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "His only answer was a grunt. [underlined: grunt]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Pronoun",
+                        "Adverb"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘A grunt’ (with the article ‘a’) names a thing = noun."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q43",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  43,
+        "ref":  "CDS 2024-II, Q.43",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "To swim every day is good for health. [underlined: To swim]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Infinitive verb",
+                        "Gerund",
+                        "Adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘To swim’ = to + base verb used as the subject = infinitive."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q44",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  44,
+        "ref":  "CDS 2024-II, Q.44",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I didn\u0027t tell him anything except that I needed the money. [underlined: except]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Preposition",
+                        "Conjunction"
+                    ],
+        "answer":  "d",
+        "explanation":  "Here ‘except’ is followed by the clause ‘that I needed …’, so it joins clauses = conjunction."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q45",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  45,
+        "ref":  "CDS 2024-II, Q.45",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "She married at 18 and gave birth to her first child shortly thereafter. [underlined: shortly]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Determiner",
+                        "Adjective",
+                        "Adverb"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Shortly’ modifies the timing (shortly thereafter) = adverb of time."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q46",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  46,
+        "ref":  "CDS 2024-II, Q.46",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "He is one of the tallest boys in his class. [underlined word uncertain in scan (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Possessive Pronoun",
+                        "Noun",
+                        "Reflexive Pronoun",
+                        "Numeral Adjective"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘His’ shows possession (his class) = possessive pronoun/adjective."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q47",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  47,
+        "ref":  "CDS 2024-II, Q.47",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The mighty river Brahmaputra flows through the plains of Assam. [underlined: mighty]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Adjective",
+                        "Noun",
+                        "Pronoun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Mighty’ describes the noun ‘river’ = adjective."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q48",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  48,
+        "ref":  "CDS 2024-II, Q.48",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The money which one earns is not the money for himself, it is for the family and society. [underlined: which]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Pronoun",
+                        "Verb",
+                        "Adverb"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Which’ stands in for ‘the money’ and links the clause = relative pronoun."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q49",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  49,
+        "ref":  "CDS 2024-II, Q.49",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The Principal said, \"We should always be disciplined.\" [underlined word uncertain in scan (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Adverb",
+                        "Adjective",
+                        "Determiner"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Always’ modifies the verb (tells frequency) = adverb."
+    },
+    {
+        "id":  "eng-2024-II-parts-of-speech-q50",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2024,
+        "session":  "II",
+        "paper":  "CDS 2024-II",
+        "qno":  50,
+        "ref":  "CDS 2024-II, Q.50",
+        "directions":  "Find which word class the underlined word/words belongs to. (Tested word inferred in [brackets]; OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The river that flows through the village is a tributary of the Cauvery. [underlined: that]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Pronoun",
+                        "Noun",
+                        "Verb",
+                        "Adjective"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘That’ replaces ‘the river’ and introduces the clause = relative pronoun. Prepositions \u0026 Determiners (Q61–70)"
+    },
+    {
+        "id":  "eng-2025-II-parts-of-speech-q21",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  21,
+        "ref":  "CDS 2025-II, Q.21",
+        "directions":  "Each sentence has an underlined word/phrase; identify its part of speech. (Tested word inferred in [brackets] - OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "His happiness was obvious as he had won unprecedented appreciation for his hard work. [underlined: appreciation]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Collective noun",
+                        "Abstract noun",
+                        "Adjective",
+                        "Common noun"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Appreciation’ names a feeling/quality you cannot touch = abstract noun."
+    },
+    {
+        "id":  "eng-2025-II-parts-of-speech-q22",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  22,
+        "ref":  "CDS 2025-II, Q.22",
+        "directions":  "Each sentence has an underlined word/phrase; identify its part of speech. (Tested word inferred in [brackets] - OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "I wonder if at times it rains to give us some respite from the dull moments of life. [underlined word uncertain in scan (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Conjunction",
+                        "Verb",
+                        "Participle"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘If’ joins the main clause to the noun clause ‘it rains …’ = subordinating conjunction."
+    },
+    {
+        "id":  "eng-2025-II-parts-of-speech-q23",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  23,
+        "ref":  "CDS 2025-II, Q.23",
+        "directions":  "Each sentence has an underlined word/phrase; identify its part of speech. (Tested word inferred in [brackets] - OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The manager expects every employee to do his duty. [underlined: every]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Infinite numeral adjective",
+                        "Distributive numeral adjective",
+                        "Demonstrative adjective",
+                        "Definite numeral adjective"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Every’ points to each member of a group individually = distributive adjective."
+    },
+    {
+        "id":  "eng-2025-II-parts-of-speech-q24",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  24,
+        "ref":  "CDS 2025-II, Q.24",
+        "directions":  "Each sentence has an underlined word/phrase; identify its part of speech. (Tested word inferred in [brackets] - OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The righteous always emerge victorious. [underlined: righteous]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Plural Noun",
+                        "Adverb",
+                        "Determiner",
+                        "Singular Noun"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘The + adjective’ (the righteous) stands for a whole class of people and is treated as plural."
+    },
+    {
+        "id":  "eng-2025-II-parts-of-speech-q25",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2025,
+        "session":  "II",
+        "paper":  "CDS 2025-II",
+        "qno":  25,
+        "ref":  "CDS 2025-II, Q.25",
+        "directions":  "Each sentence has an underlined word/phrase; identify its part of speech. (Tested word inferred in [brackets] - OCR did not capture the underline.)",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It rained every day during the month of August. [underlined: every day]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Pronoun",
+                        "Conjunction",
+                        "Adjective"
+                    ],
+        "answer":  "a",
+        "explanation":  "‘Every day’ tells how often it rained — it modifies the verb = adverb (adverbial phrase of time)."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q61",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  61,
+        "ref":  "CDS 2026-I, Q.61",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Who came first in the race? [underlined: first (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Preposition",
+                        "Adjective",
+                        "Adverb",
+                        "Pronoun"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘First’ tells how/when she came — it modifies the verb ‘came’, so it is an adverb of order."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q62",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  62,
+        "ref":  "CDS 2026-I, Q.62",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "It is obligatory for all employees to wear protective clothing. [underlined: obligatory]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Participle"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Obligatory’ describes the situation (it is obligatory) — a describing word = adjective."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q63",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  63,
+        "ref":  "CDS 2026-I, Q.63",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Turn right at the end of the street. [underlined: right]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adjective",
+                        "Adverb",
+                        "Noun",
+                        "Preposition"
+                    ],
+        "answer":  "b",
+        "explanation":  "Here ‘right’ tells the direction of the verb ‘turn’, so it modifies the verb = adverb."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q64",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  64,
+        "ref":  "CDS 2026-I, Q.64",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Swimming is good for health. [underlined: Swimming]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Participle",
+                        "Verb",
+                        "Noun",
+                        "Gerund"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Swimming’ is an -ing verb form used as the subject (a noun job) = gerund."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q65",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  65,
+        "ref":  "CDS 2026-I, Q.65",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "My arms are aching terribly. [underlined word uncertain in scan (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Participle"
+                    ],
+        "answer":  "c",
+        "explanation":  "‘Terribly’ modifies the verb ‘are aching’ (tells how) = adverb of degree/manner."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q66",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  66,
+        "ref":  "CDS 2026-I, Q.66",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The local council could not finance the project as planned. [underlined: finance]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Verb",
+                        "Adverb",
+                        "Participle"
+                    ],
+        "answer":  "b",
+        "explanation":  "Here ‘finance’ is the action (could not finance) = verb."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q67",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  67,
+        "ref":  "CDS 2026-I, Q.67",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "We met a lot of interesting people during our winter holidays. [underlined: during]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Conjunction",
+                        "Preposition",
+                        "Article",
+                        "Participle"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘During’ shows the relation of time before the noun ‘holidays’ = preposition."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q68",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  68,
+        "ref":  "CDS 2026-I, Q.68",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Vicky refused to join the trek to the hills because he is afraid of heights. [underlined word uncertain in scan (!)]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Verb",
+                        "Adverb",
+                        "Noun",
+                        "Adjective"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Afraid’ describes Vicky’s state (he is afraid) = predicative adjective."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q69",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  69,
+        "ref":  "CDS 2026-I, Q.69",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "The number of boxes sold leapt from 19,400 to 33,542. [underlined: leapt]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Noun",
+                        "Adjective",
+                        "Preposition",
+                        "Verb"
+                    ],
+        "answer":  "d",
+        "explanation":  "‘Leapt’ (past tense of leap) is the action of the subject = verb."
+    },
+    {
+        "id":  "eng-2026-I-parts-of-speech-q70",
+        "subject":  "Parts of Speech / Word Classes",
+        "topic":  "Grammar \u0026 Usage",
+        "subtopic":  "Word Classes",
+        "topicOriginal":  "Word Classes",
+        "year":  2026,
+        "session":  "I",
+        "paper":  "CDS 2026-I",
+        "qno":  70,
+        "ref":  "CDS 2026-I, Q.70",
+        "directions":  "Each sentence has an underlined word; identify its word class. NOTE: OCR did not capture the underline, so the tested word is given in [brackets] where it could be inferred (marked (!) if uncertain).",
+        "passageId":  "",
+        "passageText":  "",
+        "stem":  "Amar ensured the timely delivery of the products. [underlined: timely]",
+        "subs":  [
+
+                 ],
+        "options":  [
+                        "Adverb",
+                        "Adjective",
+                        "Noun",
+                        "Preposition"
+                    ],
+        "answer":  "b",
+        "explanation":  "‘Timely’ describes the noun ‘delivery’ (timely delivery) = adjective — even though it ends in -ly. Prepositions \u0026 Determiners (Q71–80)"
+    }
+]

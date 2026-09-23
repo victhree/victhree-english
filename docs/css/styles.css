@@ -57,8 +57,9 @@ img{max-width:100%;display:block}
 /* ---------- Home hub ---------- */
 .hub-grid{display:grid;gap:10px}
 #hub{display:flex;flex-direction:column;gap:10px}
-.subj-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.subj-grid{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .subj-tile{
+  flex:0 0 calc(50% - 5px);
   display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;
   min-height:130px;padding:22px 12px;text-decoration:none;color:var(--navy);
   background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);
@@ -67,7 +68,7 @@ img{max-width:100%;display:block}
 .subj-tile:hover{transform:translateY(-2px);border-color:var(--gold);box-shadow:0 6px 22px rgba(11,31,58,.12)}
 .subj-ico{font-size:42px;line-height:1}
 .subj-name{font-weight:800;font-size:17px;text-align:center}
-@media(min-width:680px){ .subj-grid{grid-template-columns:repeat(3,1fr)} }
+@media(min-width:680px){ .subj-tile{flex:0 0 calc(33.333% - 7px)} }
 .hub-card{
   display:flex;align-items:center;gap:14px;background:var(--card);border:1px solid var(--line);
   border-radius:var(--radius);padding:16px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);
